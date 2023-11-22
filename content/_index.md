@@ -11,21 +11,51 @@ sections:
       title: AMW 2024
       subtitle: |-
         16TH ALBERTO MENDELZON INTERNATIONAL WORKSHOP ON FOUNDATIONS OF DATA MANAGEMENT  
-        Mexico City, Mexico
+        Mexico City, Mexico   
       text: |-
+        
         <div style="text-align:center;">
           MAY 22–26, 2024
         </div>
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'      
+      # background:
+      #   gradient_end: '#1976d2'
+      #   gradient_start: '#004ba0'
+      #   text_color_light: true
+        # image: 
+        #   # Name of image in `assets/media/`.
+        #   filename: jacarandas-en-cuidad-universitaria.jpg       
+        #   # Apply image filters?
+        #   filters:
+        #     # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+        #     brightness: 0.35
+        #   #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+        #   size: cover
+        #   # Image focal point. Options include `left`, `center` (default), or `right`.
+        #   position: center
+        #   # Use a fun parallax-like fixed background effect on desktop? true/false
+        #   parallax: false
+        #   # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        #   text_color_light: true     
 
-  # - block: about.biography
-  #   id: about
-  #   content:
-  #     title: 
-  #     # Choose a user profile to display (a folder name within `content/authors/`)
-  #     username: alberto-mendelzon
+  - block: markdown
+    content:
+      title: 
+      subtitle: 
+      text: |-
+        Since 2006, the **Alberto Mendelzon International Workshop on Foundations of Data Management (AMW)** brings together top researchers from all over the world, creating the opportunity to discuss and spread research results around the areas of Data Management and the Web.
+
+        The co-located **AMW Summer School** provides an opportunity for Latin American students (graduate and undergraduate), researchers, and practitioners, to interact with top researchers from all over the world, promoting collaboration, learning and teaching in a friendly environment.
+
+        AMW is a way to honour the memory of [Alberto Mendelzon](https://en.wikipedia.org/wiki/Alberto_O._Mendelzon), by promoting research ties with Latin America.
+
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2' 
 
 ---

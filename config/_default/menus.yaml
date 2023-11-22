@@ -17,10 +17,10 @@ main:
     url: '#'
     weight: 40
   - name: Organization
-    url: '#'
+    url: '/organization'
     weight: 50
-  - name: Attending
-    url: '#'
+  - name: Venue
+    url: '/venue'
     weight: 60
   - name: Registration
     url: '#'
