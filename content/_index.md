@@ -8,39 +8,45 @@ sections:
 
   - block: markdown
     content:
-      title: AMW 2024
-      subtitle: |-
-        16TH ALBERTO MENDELZON INTERNATIONAL WORKSHOP ON FOUNDATIONS OF DATA MANAGEMENT  
-        Mexico City, Mexico   
+      title: |-
+        <p style="margin-top:200px;"></p> 
+        AMW 2024   
+      subtitle: 
       text: |-
-        
-        <div style="text-align:center;">
-          MAY 22–26, 2024
-        </div>
+        16th ALBERTO MENDELZON INTERNATIONAL WORKSHOP  
+        ON **FOUNDATIONS OF DATA MANAGEMENT**  
+        { style="text-align:center;" }
+
+        May 22–26, 2024   
+        { style="text-align:center;" }
+
+        Mexico City, Mexico
+        { style="text-align:center;" }
+
 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'      
-      # background:
-      #   gradient_end: '#1976d2'
-      #   gradient_start: '#004ba0'
-      #   text_color_light: true
-        # image: 
-        #   # Name of image in `assets/media/`.
-        #   filename: jacarandas-en-cuidad-universitaria.jpg       
-        #   # Apply image filters?
-        #   filters:
-        #     # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-        #     brightness: 0.35
-        #   #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-        #   size: cover
-        #   # Image focal point. Options include `left`, `center` (default), or `right`.
-        #   position: center
-        #   # Use a fun parallax-like fixed background effect on desktop? true/false
-        #   parallax: false
-        #   # Text color (true=light, false=dark, or remove for the dynamic theme color).
-        #   text_color_light: true     
+      background:
+        # gradient_end: '#1976d2'
+        # gradient_start: '#004ba0'
+        text_color_light: true
+        image: 
+          # Name of image in `assets/media/`.
+          filename: with-us-you-ll-visit.jpg       
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.45
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: false     
 
   - block: markdown
     content:
