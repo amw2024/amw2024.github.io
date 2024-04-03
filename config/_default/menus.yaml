@@ -4,17 +4,28 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Call
-    url: '#'
+
+  - name: Calls
+    identifier: calls
     weight: 10
+  
+  - name: Important Dates
+    parent: calls
+    url: '/important-dates'
+    weight: 11    
+  - name: Call for Papers
+    parent: calls
+    url: '/call'
+    weight: 12
+
   - name: Program
-    url: '#'
+    url: '/tbd'
     weight: 20
   - name: Keynotes
-    url: '#'
+    url: '/tbd'
     weight: 30
   - name: AMW School
-    url: '#'
+    url: '/tbd'
     weight: 40
   - name: Organization
     url: '/organization'
@@ -26,7 +37,7 @@ main:
     url: '#'
     weight: 70
   - name: Previous AWS
-    url: 'https://amw2023.org/previous.html'
+    url: 'https://easychair.org/cfp/amw2023'
     weight: 80
 
 # Link to a PDF of your resume/CV from the menu.

@@ -17,7 +17,7 @@ sections:
         ON **FOUNDATIONS OF DATA MANAGEMENT**  
         { style="text-align:center;" }
 
-        May 22–26, 2024   
+        September 30th - October 4th , 2024   
         { style="text-align:center;" }
 
         Mexico City, Mexico
