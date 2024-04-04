@@ -59,7 +59,9 @@ Submissions should be written in English and formatted according to the [Springe
 
 Submissions must be uploaded via [EasyChair](https://easychair.org/conferences/?conf=amw2024) in PDF format.
 
-Both extended abstracts and short papers will be published in the [CEUR Workshop Proceedings](http://ceur-ws.org). 
+Both extended abstracts and short papers will be published in the [CEUR Workshop Proceedings](http://ceur-ws.org).[^1]
+
+[^1]: The authors can opt-out if they wish.
 
 {{% callout note %}}
 At least one author of each accepted paper must attend the workshop to present the work.
