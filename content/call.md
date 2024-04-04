@@ -11,7 +11,9 @@ header:
   image: ''
 ---
 
-We solicit submissions in the following areas of data management (and other related areas). Papers addressing foundational aspects are particularly welcome. However, we also encourage submitting papers (especially short papers; see submission instructions below) that illustrate applications of foundational results in real-world contexts.
+We solicit submissions in the following areas of data management. Submissions addressing foundational aspects and (short) papers illustrating applications of foundational results in real-world contexts are particularly welcome.
+
+### Topics
 
 * Approximate and probabilistic query answering
 * Data analytics
@@ -53,10 +55,13 @@ We invite two types of submissions:
 * Short papers of up to **4 pages** may contain original ongoing research or recently published results.
 * Extended abstracts of up to **10 pages**, presenting original research.
 
-Both extended abstracts and short papers will be published in the CEUR Workshop Proceedings (http://ceur-ws.org). 
+Submissions should be written in English and formatted according to the [Springer Lecture Notes in Computer Science](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj) style. 
 
-Papers should be written in English and formatted according to the LNCS Springer style for Lecture Notes in Computer Science. 
+Submissions must be uploaded via [EasyChair](https://easychair.org/conferences/?conf=amw2024) in PDF format.
 
-They must also be submitted electronically via EasyChair (https://easychair.org/conferences/TBD) in PDF format.
+Both extended abstracts and short papers will be published in the [CEUR Workshop Proceedings](http://ceur-ws.org). 
 
+{{% callout note %}}
 At least one author of each accepted paper must attend the workshop to present the work.
+{{% /callout %}}
+
