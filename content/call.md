@@ -52,8 +52,8 @@ We solicit submissions in the following areas of data management. Submissions ad
 
 We invite two types of submissions:
 
-* Short papers (up to **4 pages**) containing original ongoing research or recently published results.
-* Extended abstracts (up to **10 pages**) presenting original research.
+* **Short papers** (up to **4 pages**) containing original ongoing research or recently published results.
+* **Extended abstracts** (up to **10 pages**) presenting original research.
 
 Submissions should be written in English and formatted according to the [Springer Lecture Notes in Computer Science](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj) style. 
 
