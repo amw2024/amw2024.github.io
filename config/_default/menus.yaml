@@ -5,18 +5,28 @@
 
 main:
 
-  - name: Calls
-    identifier: calls
-    weight: 10
+
   
   - name: Important Dates
-    parent: calls
     url: '/important-dates'
-    weight: 11    
+    weight: 1
+
   - name: Call for Papers
-    parent: calls
     url: '/call'
-    weight: 12
+    weight: 2
+
+  # - name: Calls
+  #   identifier: calls
+  #   weight: 10
+
+  # - name: Important Dates
+  #   parent: calls
+  #   url: '/important-dates'
+  #   weight: 11    
+  # - name: Call for Papers
+  #   parent: calls
+  #   url: '/call'
+  #   weight: 12
 
   - name: Program
     url: '/tbd'
@@ -27,15 +37,22 @@ main:
   - name: AMW School
     url: '/tbd'
     weight: 40
+
+  - name: Registration
+    url: '/tbd'
+    weight: 41
+
   - name: Organization
     url: '/organization'
     weight: 50
   - name: Venue
     url: '/venue'
     weight: 60
-  - name: Registration
-    url: '#'
-    weight: 70
+  # - name: Registration
+  #   url: '#'
+  #   weight: 70
+
+
   # - name: Previous AWS
   #   url: 'https://easychair.org/cfp/amw2023'
   #   weight: 80
