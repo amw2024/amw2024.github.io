@@ -55,15 +55,19 @@ We invite two types of submissions:
 * **Short papers** (up to **4 pages**) containing original ongoing research or recently published results.
 * **Extended abstracts** (up to **10 pages**) presenting original research.
 
-Submissions should be written in English and formatted according to the [Springer Lecture Notes in Computer Science](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj) style. 
+Submissions should be written in English and formatted according to the [CEURART style](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART) (see official [CEUR Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)).
 
-Submissions must be uploaded via [EasyChair](https://easychair.org/conferences/?conf=amw2024) in PDF format.
+Submissions must be uploaded in PDF format using the following link:</br> 
+https://easychair.org/conferences/?conf=amw2024
 
 Both extended abstracts and short papers will be published in the [CEUR Workshop Proceedings](http://ceur-ws.org).[^1]
 
 [^1]: The authors can opt-out if they wish.
 
 {{% callout note %}}
-At least one author of each accepted paper must attend the workshop to present the work.
+This year submissions are requested in the CEURART format since this is the camera-ready required format. However, <mark>**submissions following the LNCS format will still be accepted**</mark>.
 {{% /callout %}}
 
+{{% callout warning %}}
+At least one author of each accepted paper must attend the workshop to present the work.
+{{% /callout %}}
