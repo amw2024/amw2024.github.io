@@ -5,10 +5,8 @@
 
 main:
 
-
-  
   - name: Important Dates
-    url: '/important-dates'
+    url: '/#important-dates'
     weight: 1
 
   - name: Call for Papers
@@ -45,12 +43,20 @@ main:
   - name: Organization
     url: '/organization'
     weight: 50
+
   - name: Venue
     url: '/venue'
     weight: 60
+
   # - name: Registration
   #   url: '#'
   #   weight: 70
+
+
+  - name: Contact
+    url: '#contact'
+    weight: 80
+
 
 
   # - name: Previous AWS

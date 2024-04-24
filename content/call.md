@@ -50,6 +50,14 @@ We solicit submissions in the following areas of data management. Submissions ad
 
 ### Submissions
 
+{{% callout note %}}
+This year submissions are requested in the CEURART format since this is the camera-ready required format. However, <mark>**submissions following the previous LNCS format will still be accepted**</mark>.
+{{% /callout %}}
+
+{{% callout warning %}}
+At least one author of each accepted paper must attend the workshop to present the work.
+{{% /callout %}}
+
 We invite two types of submissions:
 
 * **Short papers** (up to **4 pages**) containing original ongoing research or recently published results.
@@ -64,10 +72,3 @@ Both extended abstracts and short papers will be published in the [CEUR Workshop
 
 [^1]: The authors can opt-out if they wish.
 
-{{% callout note %}}
-This year submissions are requested in the CEURART format since this is the camera-ready required format. However, <mark>**submissions following the LNCS format will still be accepted**</mark>.
-{{% /callout %}}
-
-{{% callout warning %}}
-At least one author of each accepted paper must attend the workshop to present the work.
-{{% /callout %}}

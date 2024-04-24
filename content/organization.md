@@ -11,13 +11,17 @@ header:
   image: ''
 ---
 
-#### General Chair
-* Genoveva Vargas-Solar, CNRS, France
+### General Chair
+
+* [Genoveva Vargas-Solar](mailto:genoveva.vargas-solar@cnrs.fr), CNRS, France
  
-#### Local Chairs
-* Rocío Aldeco-Pérez, UNAM, Mexico
+### Local Chair
+* [Rocío Aldeco-Pérez](mailto:raldeco@unam.mx), UNAM, Mexico 
 
-#### Program Committee Chairs
-* Emanuel Sallinger, TU Wien, Austria
-* Gabriela Montoya, Aalborg University, Denmark
+### Program Committee Chairs
+* [Emanuel Sallinger](mailto:sallinger@dbai.tuwien.ac.at), TU Wien, Austria 
+* [Gabriela Montoya](mailto:gmontoya@cs.aau.dk), Aalborg University, Denmark 
 
+### Web Chair
+
+* [Javier A. Espinosa-Oviedo](mailto:javier.espinosa@liris.cnrs.fr), CPE Lyon - LIRIS, France

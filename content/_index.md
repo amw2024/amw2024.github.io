@@ -50,8 +50,8 @@ sections:
 
   - block: markdown
     content:
-      title: 
-      subtitle: 
+      title: About AMW
+      subtitle: Int. Workshop & Summer School
       text: |-
         Since 2006, the **Alberto Mendelzon International Workshop on Foundations of Data Management (AMW)** brings together top researchers from all over the world, creating the opportunity to discuss and spread research results around the areas of Data Management and the Web.
 
@@ -59,9 +59,67 @@ sections:
 
         AMW is a way to honour the memory of [Alberto Mendelzon](https://en.wikipedia.org/wiki/Alberto_O._Mendelzon), by promoting research ties with Latin America.
 
+        {{< figure src="alberto-mendelzon.jpg" >}}
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2' 
+
+  
+  - block: markdown
+    id: important-dates
+    content:
+      title: Important Dates
+      subtitle: 
+      text: |-
+
+        | Events                 |  Dates |
+        |:----------|:------|
+        | **School**        |   `30 September - 1 October 2024` |
+        | **Workshop**      |   `2-4 October 2024` |
+
+        </br>
+        
+        | Deadlines                  |  Dates |
+        |:----------|:------|
+        | **Abstracts**     |   `2 June 2024`    |
+        | **Paper**         |   `16 June 2024`   |
+        | **Notifications** |   `30 July 2024`   |
+        | **Camera-ready**  |   `28 August 2024` |
+
+
+
+
+        
+
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2' 
+
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle: ''
+      text: ''
+      # Contact details - edit or remove options as needed
+      email: amw2024news@groups.google.com
+      
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: "@amw2024news"
+          link: 'https://twitter.com/amw2024news'
+
+      # Automatically link email and phone or display them just as text?
+      autolink: true
+      
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+
 
 ---
