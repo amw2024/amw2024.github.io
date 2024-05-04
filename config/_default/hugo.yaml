@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'AMW 2024: 16th Alberto Mendelzon International Workshop' # Website name
+title: 'AMW 2024' # Website name
 baseURL: 'https://amw2024.github.io' # Website URL
 
 ############################
