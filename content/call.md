@@ -63,7 +63,7 @@ We invite two types of submissions:
 * **Short papers** (up to **4 pages**) containing original ongoing research or recently published results.
 * **Extended abstracts** (up to **10 pages**) presenting original research.
 
-Submissions should be written in English and formatted according to the [CEURART style](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART) (see official [CEUR Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)).
+Submissions should be written in English and formatted according to the <mark>**single-column**</mark> [CEURART style](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART). You can use the [CEUR Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw) as reference.
 
 Submissions must be uploaded in PDF format using the following link:</br> 
 https://easychair.org/conferences/?conf=amw2024
