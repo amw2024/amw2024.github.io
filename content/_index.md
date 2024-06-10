@@ -83,8 +83,8 @@ sections:
         
         | Deadlines                  |  Dates |
         |:----------|:------|
-        | **Abstracts**     |   `9 June 2024`    |
-        | **Paper**         |   `16 June 2024`   |
+        | **Abstracts**     |   ~~9 June 2024~~  <mark>`** 23 June 2024 **`</mark> `(sunday)`   |
+        | **Papers**        |   ~~16 June 2024~~ <mark>`** 30 June 2024 **`</mark> `(sunday)` |
         | **Notifications** |   `30 July 2024`   |
         | **Camera-ready**  |   `28 August 2024` |
 
