@@ -48,6 +48,8 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: false     
 
+
+
   - block: markdown
     id: about
     content:
@@ -69,10 +71,12 @@ sections:
 
   
   - block: markdown
-    id: important-dates
+    id: dates
+    design:
+      columns: '2' 
     content:
-      title: Important Dates
-      subtitle: 
+      title: Dates
+      subtitle: # Workshop & School
       text: |-
 
         | Events                 |  Dates |
@@ -80,19 +84,6 @@ sections:
         | **School**        |   `30 September - 1 October 2024` |
         | **Workshop**      |   `2-4 October 2024` |
 
-        </br>
-        
-        | Deadlines                  |  Dates |
-        |:----------|:------|
-        | **Abstracts**     |   ~~9 June 2024~~  <mark>`** 23 June 2024 **`</mark> `(sunday)`   |
-        | **Papers**        |   ~~16 June 2024~~ <mark>`** 30 June 2024 **`</mark> `(sunday)` |
-        | **Notifications** |   `30 July 2024`   |
-        | **Camera-ready**  |   `28 August 2024` |
-
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2' 
 
   # - block: markdown
   #   id: registration

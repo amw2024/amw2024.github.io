@@ -5,41 +5,70 @@
 
 main:
 
+
   - name: Important Dates
     url: '/#important-dates'
     weight: 1
 
+  # --------------------------------------------
+  # GENERAL INFORMATION
+  # --------------------------------------------
+
   - name: General Information
-    identifier: about
+    identifier: "general-info"
     weight: 2
 
   - name: About AMW
-    parent: about
+    parent: "general-info"
     url: '/#about'
     weight: 21
 
-  - name: Registration
-    parent: about
-    url: '/tbd'
+  - name: Dates
+    parent: "general-info"
+    url: '/#dates'
+    weight: 21
+
+  - name: Organization Officers
+    parent: "general-info"
+    url: '/organization'
     weight: 22
 
-  - name: Organization
-    parent: about
-    url: '/organization'
-    weight: 23
-
   - name: Contact
-    parent: about
+    parent: "general-info"
     url: '#contact'
     weight: 23
 
 
-  - name: Call for Papers
-    parent: workshop
-    url: '/call'
-    weight: 2
+  # --------------------------------------------
+  # CALL FOR SUBMISSIONS
+  # --------------------------------------------
 
-  - name: Workshop
+  - name: Call for Submissions
+    identifier: submissions
+    url: '/submissions'
+    weight: 3
+
+  - name: Important Dates
+    parent: submissions
+    url: '/submissions#important-dates'
+    weight: 31
+
+  - name: Call for Papers
+    parent: submissions
+    url: '/submissions#call-for-papers'
+    weight: 32
+
+  - name: Camera-Ready Guidelines
+    parent: submissions
+    url: '/submissions#camera-ready'
+    weight: 32
+
+
+  # --------------------------------------------
+  # WORKSHOPS AND PROGRAM
+  # --------------------------------------------
+
+  - name: Workshop Program
     identifier: workshop
     weight: 10
 
@@ -53,7 +82,7 @@ main:
     url: '/tbd'
     weight: 30
 
-  - name: School
+  - name: School Program
     identifier: school
     url: '/school'
     weight: 40
@@ -73,7 +102,14 @@ main:
   #   url: '/organization'
   #   weight: 50
 
-  - name: Participan Information
+
+
+
+  # --------------------------------------------
+  # PARTICIPANT INFORMATION
+  # --------------------------------------------
+
+  - name: Participant Information
     identifier: info
     url: '/venue'
     weight: 60
@@ -83,15 +119,15 @@ main:
     url: '/venue'
     weight: 61  
 
-  - name: Hotels
+  - name: Accomodation
     parent: info
     url: '/hotels'
     weight: 62  
 
   # - name: Registration
-  #   url: '#'
-  #   weight: 70
-
+  #   parent: "general-info"
+  #   url: '/tbd'
+  #   weight: 22
 
 
 
