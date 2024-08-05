@@ -31,7 +31,7 @@ header:
 * [Emanuel Sallinger](mailto:sallinger@dbai.tuwien.ac.at), TU Wien, Austria 
 * [Gabriela Montoya](mailto:gmontoya@cs.aau.dk), Aalborg University, Denmark 
 
-### Program Committee members
+### Technical Program Committee
 
 * **Amelie Gheerbrant**, Univ. Paris-IRIF, France
 * **Carmem S. Hara**, UFPR, Brazil

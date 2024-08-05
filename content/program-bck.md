@@ -20,7 +20,7 @@ header:
 <table class="table">
     <tbody>
       <tr>
-            <td data-table-dtype="text"><code>9:00</code></td>
+            <td data-table-dtype="text"><code>10:00</code></td>
             <td data-table-dtype="text">
               <b>Tutorial 1</b></br>
               <a href="http://www.dpg-ccae.uca.edu.py/school#tuto1"> Deep Learning for Natural Language Processing (in spanish)</a>
@@ -29,3 +29,4 @@ header:
       </tr>
   </tbody>
 </table>
+

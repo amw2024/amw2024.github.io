@@ -9,53 +9,91 @@ main:
     url: '/#important-dates'
     weight: 1
 
+  - name: General Information
+    identifier: about
+    weight: 2
+
+  - name: About AMW
+    parent: about
+    url: '/#about'
+    weight: 21
+
+  - name: Registration
+    parent: about
+    url: '/tbd'
+    weight: 22
+
+  - name: Organization
+    parent: about
+    url: '/organization'
+    weight: 23
+
+  - name: Contact
+    parent: about
+    url: '#contact'
+    weight: 23
+
+
   - name: Call for Papers
+    parent: workshop
     url: '/call'
     weight: 2
 
-  # - name: Calls
-  #   identifier: calls
-  #   weight: 10
-
-  # - name: Important Dates
-  #   parent: calls
-  #   url: '/important-dates'
-  #   weight: 11    
-  # - name: Call for Papers
-  #   parent: calls
-  #   url: '/call'
-  #   weight: 12
+  - name: Workshop
+    identifier: workshop
+    weight: 10
 
   - name: Program
+    parent: workshop
     url: '/tbd'
-    weight: 20
+    weight: 21
+
   - name: Keynotes
+    parent: workshop
     url: '/tbd'
     weight: 30
-  - name: AMW School
-    url: '/tbd'
+
+  - name: School
+    identifier: school
+    url: '/school'
     weight: 40
 
-  - name: Registration
-    url: '/tbd'
+  - name: Speakers
+    parent: school
+    url: '/school#speakers'
     weight: 41
+  
+  - name: Program
+    parent: school
+    url: '/school#program'
+    weight: 42
 
-  - name: Organization
-    url: '/organization'
-    weight: 50
 
-  - name: Venue
+  # - name: Organization
+  #   url: '/organization'
+  #   weight: 50
+
+  - name: Participan Information
+    identifier: info
     url: '/venue'
     weight: 60
+
+  - name: Venue
+    parent: info
+    url: '/venue'
+    weight: 61  
+
+  - name: Hotels
+    parent: info
+    url: '/hotels'
+    weight: 62  
 
   # - name: Registration
   #   url: '#'
   #   weight: 70
 
 
-  - name: Contact
-    url: '#contact'
-    weight: 80
+
 
 
 

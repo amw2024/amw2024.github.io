@@ -49,6 +49,7 @@ sections:
           text_color_light: false     
 
   - block: markdown
+    id: about
     content:
       title: About AMW
       subtitle: Int. Workshop & Summer School
@@ -88,15 +89,29 @@ sections:
         | **Notifications** |   `30 July 2024`   |
         | **Camera-ready**  |   `28 August 2024` |
 
-
-
-
-        
-
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2' 
+
+  # - block: markdown
+  #   id: registration
+  #   content:
+  #     title: Registration
+  #     subtitle: 
+  #     text: |-
+
+  #       |                   |  Early Bird |  Late (after September 5, 2024) |
+  #       |:----------|------:|------:|
+  #       | **Workshop + School**     |   `$ 1,270 USD` | `$ 1,905 USD` |
+  #       | **Workshop only**         |     `$ 870 USD` | `$ 1,305 USD` |
+  #       | **School only**           |     `$ 450 USD` | `$   675 USD` |
+        
+  #   design:
+  #     # See Page Builder docs for all section customization options.
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '2' 
+
 
 
   - block: contact
