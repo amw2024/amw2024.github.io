@@ -7,27 +7,27 @@ weight : 41
 
 sections:
 
-  - block: people
-    id: speakers
-    content:
-      text: 
-      title: School Speakers
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-        - "School Speakers"
+  # - block: people
+  #   id: speakers
+  #   content:
+  #     text: 
+  #     title: School Speakers
+  #     # Choose which groups/teams of users to display.
+  #     #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  #     user_groups:
+  #       - "School Speakers"
 
-      # sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      # Show user's social networking links? (true/false)
-      show_social: true
-      # Show user's interests? (true/false)
-      show_interests: false
-      # Show user's role?
-      show_role: true
-      # Show user's organizations/affiliations?
-      show_organizations: true
+  #     # sort_by: Params.last_name
+  #     sort_ascending: true
+  #   design:
+  #     # Show user's social networking links? (true/false)
+  #     show_social: true
+  #     # Show user's interests? (true/false)
+  #     show_interests: false
+  #     # Show user's role?
+  #     show_role: true
+  #     # Show user's organizations/affiliations?
+  #     show_organizations: true
         
 
 
@@ -36,10 +36,10 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'  
+      columns: '2'  
 
     content:
-      title:  School Program 
+      title:  School Program
       subtitle: 
       text: |-
         
@@ -57,7 +57,7 @@ sections:
           <tbody>
             <tr>
               <td style="text-align:right; width:25%">08:50 - 09:00</td>
-              <td style="text-align:left"><strong>Opening</strong> <br>Regina Motz, UdelaR, Uruguay <br>Marcela Quiroz Castellanos, IIIA-UV, Mexico</td>
+              <td style="text-align:left"><strong>Opening</strong>
             </tr>
             <tr>
               <td style="text-align:right">09:00 - 10:30</td>

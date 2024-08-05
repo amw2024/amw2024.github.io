@@ -70,19 +70,19 @@ sections:
       columns: '2' 
 
   
-  - block: markdown
-    id: dates
-    design:
-      columns: '2' 
-    content:
-      title: Dates
-      subtitle: # Workshop & School
-      text: |-
+  # - block: markdown
+  #   id: dates
+  #   design:
+  #     columns: '2' 
+  #   content:
+  #     title: Dates
+  #     subtitle: # Workshop & School
+  #     text: |-
 
-        | Events                 |  Dates |
-        |:----------|:------|
-        | **School**        |   `30 September - 1 October 2024` |
-        | **Workshop**      |   `2-4 October 2024` |
+  #       | Events                 |  Dates |
+  #       |:----------|:------|
+  #       | **School**        |   `30 September - 1 October 2024` |
+  #       | **Workshop**      |   `2-4 October 2024` |
 
 
   # - block: markdown

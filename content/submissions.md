@@ -111,7 +111,7 @@ sections:
       subtitle: 
       text: |-
         
-        # Camera Ready Paper Guidelines
+        # Camera-Ready Guidelines
 
         ## TBA
 

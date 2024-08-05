@@ -23,10 +23,10 @@ main:
     url: '/#about'
     weight: 21
 
-  - name: Dates
-    parent: "general-info"
-    url: '/#dates'
-    weight: 21
+  # - name: Dates
+  #   parent: "general-info"
+  #   url: '/#dates'
+  #   weight: 21
 
   - name: Organization Officers
     parent: "general-info"
@@ -64,38 +64,67 @@ main:
     weight: 32
 
 
-  # --------------------------------------------
-  # WORKSHOPS AND PROGRAM
-  # --------------------------------------------
 
-  - name: Workshop Program
-    identifier: workshop
-    weight: 10
+
+  # --------------------------------------------
+  # PROGRAM
+  # --------------------------------------------
 
   - name: Program
-    parent: workshop
-    url: '/tbd'
-    weight: 21
-
-  - name: Keynotes
-    parent: workshop
-    url: '/tbd'
-    weight: 30
+    identifier: program
+    weight: 4
 
   - name: School Program
-    identifier: school
+    parent: program
     url: '/school'
-    weight: 40
-
-  - name: Speakers
-    parent: school
-    url: '/school#speakers'
     weight: 41
-  
-  - name: Program
-    parent: school
-    url: '/school#program'
+
+  - name: Workshop Program
+    parent: program
+    url: '/workshop'
     weight: 42
+
+  
+
+
+
+  # --------------------------------------------
+  # WORKSHOP PROGRAM
+  # --------------------------------------------
+
+  # - name: Workshop Program
+  #   identifier: workshop
+  #   weight: 4
+
+  # - name: Program2
+  #   parent: workshop
+  #   url: '/workshop'
+  #   weight: 41
+
+  # - name: Keynotes
+  #   parent: workshop
+  #   url: '/tbd'
+  #   weight: 42
+
+
+  # --------------------------------------------
+  # SCHOOL PROGRAM
+  # --------------------------------------------
+
+  # - name: School Program
+  #   identifier: school
+  #   url: '/school'
+  #   weight: 40
+
+  # - name: Speakers
+  #   parent: school
+  #   url: '/school#speakers'
+  #   weight: 41
+  
+  # - name: Program
+  #   parent: school
+  #   url: '/school#program'
+  #   weight: 42
 
 
   # - name: Organization
