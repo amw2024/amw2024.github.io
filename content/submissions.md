@@ -10,11 +10,9 @@ sections:
     design:
       columns: '2' 
     content:
-      title: # Important Dates
+      title: Important Dates
       subtitle: 
       text: |-
-        
-        # Important Dates
 
         |                   |  Deadline |
         |:----------|:------|
@@ -29,11 +27,10 @@ sections:
   - block: markdown
     id: call-for-papers
     content:
-      title: 
+      title: Call for Papers
       subtitle: 
       text: |-
-        
-        # Call for Papers
+
 
         We solicit submissions in the following areas of data management. Submissions addressing foundational aspects and (short) papers illustrating applications of foundational results in real-world contexts are particularly welcome.
 
@@ -107,11 +104,11 @@ sections:
     design:
       columns: '2' 
     content:
-      title: 
+      title: Camera-Ready Guidelines
       subtitle: 
       text: |-
         
-        # Camera-Ready Guidelines
+        
 
         1. Follow the **single-column** [CEURART Style](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART)
 
