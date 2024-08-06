@@ -16,10 +16,10 @@ sections:
         
         # Important Dates
 
-        |                   |  Deadlines |
+        |                   |  Deadline |
         |:----------|:------|
-        | **Abstracts**     |   ~~9 June 2024~~  <mark>`** 23 June 2024 **`</mark> `(sunday)`   |
-        | **Papers**        |   ~~16 June 2024~~ <mark>`** 30 June 2024 **`</mark> `(sunday)` |
+        | **Abstracts**     |   ~~9 June 2024~~  &ensp; `** 23 June 2024 **`
+        | **Papers**        |   ~~16 June 2024~~ &ensp; `** 30 June 2024 **`
         | **Notifications** |   `30 July 2024`   |
         | **Camera-ready**  |   `28 August 2024` |
 
@@ -113,7 +113,52 @@ sections:
         
         # Camera-Ready Guidelines
 
-        ## TBA
+        1. Follow the **single-column** [CEURART Style](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART)
+
+        2. Complete and sign the [Author Agreement Form](https://ceur-ws.org/HOWTOSUBMIT.html#AUTHORAGREEMENT).
+
+        3. Use the **emphasizing capitalized style** for your paper title
+         
+          > * CEUR instructions references https://wiki.musicbrainz.org/Style/Language/English for hints about how to correctly use this style
+        
+        4. Choose the author agreement form that corresponds to your paper: 
+          > * **AUTHOR-AGREEMENT (NTP)** if your paper includes "_no copyrighted third party material and <mark>no material in the paper was produced with the help of Generative Artificial Intelligence tools_</mark>"
+          > 
+          > * **AUTHOR-AGREEMENT (TP)** if your paper includes "_copyrighted third party material_ or <mark>includes material produced with the help of Generative Artificial Intelligence tools"
+
+        5. For papers including copyrighted third party material, *append a copy of the permission(s) by the third parties to use this material to the signed author agreement*
+
+        6. For papers including material produced with the help of Generative Artificial Intelligence tools, fill in and [sign a declaration](https://ceur-ws.org/ceur-author-statement-AI-material.pdf?ver=2024-06-04) on which elements were produced by AI tools.  
+
+        > * Please notice that **substantial** use of AI is not acceptable (https://ceur-ws.org/ACADEMIC-ETHICS.html?ver=2024-06-04)
+
+        7. The **author agreement** and eventual **permissions and declarations** appended to the agreement <mark>must be physically signed with an ink pen on paper and scanned</mark> 
+        
+        > * To comply with https://ceur-ws.org/HOWTOSUBMIT.html#FAQ-HAND-SIGNATURE 
+
+        8. Provide the **author agreement** and eventual **permissions and declarations** appended to the agreement as a <mark>PDF file of at most 1MB</mark>
+
+        9. **Make sure that the authors' names and affiliations are correct**
+
+        10. **Keep the copyright clause** as in the template
+
+        > *Copyright for this paper by its authors. Use permitted under Creative Commons License Attribution 4.0 International (CC BY 4.0).
+
+        11. **Update copyright year** to "2024"
+
+        12. **Update conference** to: 
+        
+          > "AMW 2024: 16th Alberto Mendelzon International Workshop on Foundations of Data Management, September 30th--October 4th, 2024, Mexico City, Mexico"
+
+        13. The paper **must not include page numbers**
+        
+        Your camera ready submission must be completed by `**August 28th, 2024**` and include the following files: 
+
+        * `AuthorAgreementPaperXXXX.pdf` (a PDF file of at most 1MB that includes eventual permissions for copyrighted third party material and AI declaration)
+
+        * `paperXXXX.pdf`
+
+        * `paperXXXX.zip` (including all the source files to generate paperXXXX.pdf)
 
 
 

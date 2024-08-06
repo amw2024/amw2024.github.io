@@ -23,10 +23,10 @@ main:
     url: '/#about'
     weight: 21
 
-  # - name: Dates
-  #   parent: "general-info"
-  #   url: '/#dates'
-  #   weight: 21
+  - name: Dates
+    parent: "general-info"
+    url: '/#dates'
+    weight: 21
 
   - name: Organization Officers
     parent: "general-info"
