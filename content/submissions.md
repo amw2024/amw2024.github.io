@@ -108,11 +108,11 @@ sections:
       subtitle: 
       text: |-
         
-        
-
         1. Follow the **single-column** [CEURART Style](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART)
 
-        2. Complete and sign the [Author Agreement Form](https://ceur-ws.org/HOWTOSUBMIT.html#AUTHORAGREEMENT).
+        2. Complete and sign the [Author Agreement Form](https://ceur-ws.org/HOWTOSUBMIT.html#AUTHORAGREEMENT)
+
+          > * Fill in <mark>_Gabriela Montoya, Emanuel Sallinger, and Genoveva Vargas-Solar_</mark> as **Editors of the proceedings**.
 
         3. Use the **emphasizing capitalized style** for your paper title
          
@@ -149,7 +149,8 @@ sections:
 
         13. The paper **must not include page numbers**
         
-        Your camera ready submission must be completed by `**August 28th, 2024**` and include the following files: 
+
+        Your camera ready submission must be completed by **August 28th, 2024** and include the following files: 
 
         * `AuthorAgreementPaperXXXX.pdf` (a PDF file of at most 1MB that includes eventual permissions for copyrighted third party material and AI declaration)
 
