@@ -26,17 +26,17 @@ main:
   - name: Dates
     parent: "general-info"
     url: '/#dates'
-    weight: 21
+    weight: 22
 
   - name: Organization Officers
     parent: "general-info"
     url: '/organization'
-    weight: 22
+    weight: 23
 
   - name: Contact
     parent: "general-info"
     url: '#contact'
-    weight: 23
+    weight: 24
 
 
   # --------------------------------------------
@@ -64,6 +64,15 @@ main:
     weight: 32
 
 
+
+
+  # --------------------------------------------
+  # Keynotes
+  # --------------------------------------------
+
+  - name: Keynotes
+    weight: 4
+    url: '/tbd'
 
 
   # --------------------------------------------
@@ -143,20 +152,25 @@ main:
     url: '/venue'
     weight: 60
 
+  - name: Registration
+    parent: "info"
+    url: '/registration'
+    weight: 61
+
   - name: Venue
     parent: info
     url: '/venue'
-    weight: 61  
+    weight: 62  
 
   - name: Accomodation
     parent: info
     url: '/hotels'
-    weight: 62  
+    weight: 63  
 
-  # - name: Registration
-  #   parent: "general-info"
-  #   url: '/tbd'
-  #   weight: 22
+  - name: Banquet
+    parent: info
+    url: '/tbd'
+    weight: 64  
 
 
 

@@ -75,34 +75,14 @@ sections:
     design:
       columns: '2' 
     content:
-      title: Save the Dates !
-      subtitle: Workshop & School
+      title: Dates
+      subtitle: School & Workshop
       text: |-
 
         | Events                 |  Dates |
         |:----------|:------|
         | **School**        |   `30 September - 1 October 2024` |
         | **Workshop**      |   `2-4 October 2024` |
-
-
-  # - block: markdown
-  #   id: registration
-  #   content:
-  #     title: Registration
-  #     subtitle: 
-  #     text: |-
-
-  #       |                   |  Early Bird |  Late (after September 5, 2024) |
-  #       |:----------|------:|------:|
-  #       | **Workshop + School**     |   `$ 1,270 USD` | `$ 1,905 USD` |
-  #       | **Workshop only**         |     `$ 870 USD` | `$ 1,305 USD` |
-  #       | **School only**           |     `$ 450 USD` | `$   675 USD` |
-        
-  #   design:
-  #     # See Page Builder docs for all section customization options.
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '2' 
-
 
 
   - block: contact
