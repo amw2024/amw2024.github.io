@@ -6,9 +6,9 @@
 main:
 
 
-  - name: Important Dates
-    url: '/#important-dates'
-    weight: 1
+  # - name: Important Dates
+  #   url: '/#important-dates'
+  #   weight: 1
 
   # --------------------------------------------
   # GENERAL INFORMATION
@@ -38,6 +38,10 @@ main:
     url: '#contact'
     weight: 24
 
+  - name: D&I Statement
+    parent: "general-info"
+    url: '/dei'
+    weight: 25  
 
   # --------------------------------------------
   # CALL FOR SUBMISSIONS
@@ -186,6 +190,10 @@ main:
     weight: 64  
 
 
+  # --------------------------------------------
+  # Others
+  # --------------------------------------------
+
 
 
 
@@ -193,8 +201,4 @@ main:
   #   url: 'https://easychair.org/cfp/amw2023'
   #   weight: 80
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+

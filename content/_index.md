@@ -23,7 +23,6 @@ sections:
         Mexico City, Mexico
         { style="text-align:center;" }
 
-
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -49,6 +48,16 @@ sections:
           text_color_light: false     
 
 
+  - block: markdown
+    content:
+      title: D&I Disclaimer
+      text: |-
+        The AMW community believes that diversity and culture of support encourage retention and attraction of talent, promote diversity of thought and perspective, and help make the scientific community more flexible and responsive in times of change. For these reasons, AMW 2024 continues to participate in the [Database community Diversity and Inclusion (D&I) initiative](https://dbdni.github.io/) aiming to guide researchers in our community to adopt a more inclusive mindset. For more information see the [AMW 2024 D&I statement](/dei).
+
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1' 
 
   - block: markdown
     id: about
