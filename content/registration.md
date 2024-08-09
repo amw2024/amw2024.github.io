@@ -1,6 +1,6 @@
 ---
 type : landing
-title : "AMW Program"
+title : "Registration"
 subtitle : ""
 active : true
 weight : 41

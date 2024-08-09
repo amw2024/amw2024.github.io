@@ -9,7 +9,9 @@ title: TBA
 first_name: 
 last_name: 
 
-user_groups: ["School Speakers"]
+user_groups: 
+  - Keynotes
+  - School Speakers
 
 # # Status emoji
 # status:
@@ -123,4 +125,4 @@ organizations:
 highlight_name: true
 ---
 
-XXXXXXXXX
+# School Speaker

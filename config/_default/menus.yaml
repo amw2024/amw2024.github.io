@@ -67,12 +67,23 @@ main:
 
 
   # --------------------------------------------
-  # Keynotes
+  # Speakers
   # --------------------------------------------
 
-  - name: Keynotes
-    weight: 4
-    url: '/tbd'
+  - name: Speakers
+    identifier: speakers
+    weight: 3
+    url: '/keynotes'
+
+  - name: School Speakers
+    parent: speakers
+    weight: 42
+    url: '/speakers'
+
+  - name: Keynote Speakers
+    parent: speakers
+    weight: 42
+    url: '/keynotes'
 
 
   # --------------------------------------------
@@ -105,15 +116,17 @@ main:
   #   identifier: workshop
   #   weight: 4
 
-  # - name: Program2
+  # - name: Keynote Speakers
   #   parent: workshop
-  #   url: '/workshop'
+  #   url: '/keynotes'
   #   weight: 41
 
-  # - name: Keynotes
+  # - name: Workshop Full Program
   #   parent: workshop
-  #   url: '/tbd'
+  #   url: '/workshop'
   #   weight: 42
+
+
 
 
   # --------------------------------------------

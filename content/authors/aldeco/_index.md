@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Rocío Aldeco Pérez
+title: Rocío Aldeco Pérez
 
 # Name pronunciation (optional)
 # name_pronunciation: ""
@@ -19,12 +19,16 @@ user_groups: ["School Speakers"]
 superuser: false
 
 # Role/position/tagline
-role: Associate Professor
+role: Research Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Computer Engineering  
-  - name: UNAM
+  
+  - name: School of Engineering 
+    url: https://www.ingenieria.unam.mx/EN/
+
+  - name: Universidad Nacional Autónoma de México
+    url: https://unam.mx/
   
 
 # Short bio (displayed in user profile at end of posts)
@@ -94,9 +98,9 @@ organizations:
 # #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 # #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:raldeco@unam.mx'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:raldeco@unam.mx'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/amw2024news
@@ -109,9 +113,9 @@ social:
 #   - icon: github
 #     icon_pack: fab
 #     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/rocio-aldeco/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/rocio-aldeco/
 #   # Link to a PDF of your resume/CV.
 #   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 #   # and uncomment the lines below.
@@ -123,4 +127,14 @@ social:
 highlight_name: true
 ---
 
-XXXXXXXXX
+### Bio 
+
+Rocío Aldeco-Pérez is a Research Associate Professor at Universidad Nacional Autónoma de México (UNAM), Faculty of Engineering, at the Department of Computer Engineering.  
+
+She holds a PhD in Computer Science from the University of Southampton in the area of provenance as secure evidence for automatic audits. Rocío also holds a Bachelor of Science and a Master of Science from the Benemérita Universidad Autónoma de Puebla, Mexico. During her studies she specialised in Computer Security. 
+
+She has led and collaborated in various research projects related to security, traceability and education. Currently, she is CO-PI at the Algorand Centres of Excellence  MEGA-ACE in collaboration with Purdue University. At UNAM, she administrates the CISCO Hybrid Classroom and collaborates at the Artificial Intelligence Lab at UNAM. 
+
+She has also consulted and offered specialized courses to government and industry about privacy and security of information. In addition, she teaches courses related to Security and Cryptography at the Bachelor in Computer Engineering and the Master in Science and Engineering in Computing both at UNAM while continuing her research and supervising Bachelor’s and Master’s students.
+
+Currently, she is Head of Department of Computer Engineering and an active member of the AMEXCOMP Women's chapter to promote equality in Computer Science in Mexico.

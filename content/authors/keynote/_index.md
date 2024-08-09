@@ -1,15 +1,17 @@
 ---
 # Display name
-title: Marcela Quiroz Castellanos
+title: TBA
 
 # Name pronunciation (optional)
 # name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Marcela
-last_name: Quiroz Castellanos
+first_name: 
+last_name: 
 
-user_groups: ["School Speakers"]
+user_groups: 
+  - Keynotes
+  - School Speakers
 
 # # Status emoji
 # status:
@@ -19,14 +21,12 @@ user_groups: ["School Speakers"]
 superuser: false
 
 # Role/position/tagline
-role: Fulltime Senior Researcher
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Artificial Intelligence Research Center
-    url: https://www.uv.mx/iiia/
-  - name: Universidad Veracruzana
-    url: https://www.uv.mx/
+  - name: 
+  - name: 
   
 
 # Short bio (displayed in user profile at end of posts)
@@ -95,10 +95,10 @@ organizations:
 # # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 # #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:maquiroz@uv.mx'
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:raldeco@unam.mx'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/amw2024news
@@ -113,7 +113,7 @@ social:
 #     link: https://github.com/gcushen
   # - icon: linkedin
   #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/marcela-quiroz-205a2771/
+  #   link: https://www.linkedin.com/in/rocio-aldeco/
 #   # Link to a PDF of your resume/CV.
 #   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 #   # and uncomment the lines below.
@@ -125,9 +125,7 @@ social:
 highlight_name: true
 ---
 
-### Bio
+### Keynote Talk
 
-Dr. Quiroz received her PhD in Computer Science from the Instituto Tecnológico de Tijuana and her M.Sc. in Computer Science from the Instituto Tecnológico de Ciudad Madero. She is a member of the National System of Researchers (SNI), the Mexican Society of Computer Science, and the boards of the Mexican Academy of Computing and the Mexican Federation of Robotics. 
-
-She is a founding member of the outreach group Código IA. She is currently coordinator of the PhD in Artificial Intelligence and researcher at the Artificial Intelligence Research Institute of the Universidad Veracruzana, where she develops research in the area of Computational Learning and Intelligent Optimization.
+TBA
 

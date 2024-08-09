@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Marcela Quiroz Castellanos
+title: Ricardo Baeza-Yates
 
 # Name pronunciation (optional)
 # name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Marcela
-last_name: Quiroz Castellanos
+first_name: Ricardo
+last_name: Baeza-Yates
 
-user_groups: ["School Speakers"]
+user_groups: ["Keynotes"]
 
 # # Status emoji
 # status:
@@ -19,14 +19,13 @@ user_groups: ["School Speakers"]
 superuser: false
 
 # Role/position/tagline
-role: Fulltime Senior Researcher
+role: Director of Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Artificial Intelligence Research Center
-    url: https://www.uv.mx/iiia/
-  - name: Universidad Veracruzana
-    url: https://www.uv.mx/
+  - name: Institute for Experiential AI, Northeastern University
+    url: https://ai.northeastern.edu
+  # - name: Northeastern University  
   
 
 # Short bio (displayed in user profile at end of posts)
@@ -98,7 +97,7 @@ organizations:
 social:
   # - icon: envelope
   #   icon_pack: fas
-  #   link: 'mailto:maquiroz@uv.mx'
+  #   link: 'mailto:raldeco@unam.mx'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/amw2024news
@@ -113,7 +112,7 @@ social:
 #     link: https://github.com/gcushen
   # - icon: linkedin
   #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/marcela-quiroz-205a2771/
+  #   link: https://www.linkedin.com/in/rocio-aldeco/
 #   # Link to a PDF of your resume/CV.
 #   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 #   # and uncomment the lines below.
@@ -125,9 +124,11 @@ social:
 highlight_name: true
 ---
 
+### Keynote Talk
+
+TBA
+
+
 ### Bio
 
-Dr. Quiroz received her PhD in Computer Science from the Instituto Tecnológico de Tijuana and her M.Sc. in Computer Science from the Instituto Tecnológico de Ciudad Madero. She is a member of the National System of Researchers (SNI), the Mexican Society of Computer Science, and the boards of the Mexican Academy of Computing and the Mexican Federation of Robotics. 
-
-She is a founding member of the outreach group Código IA. She is currently coordinator of the PhD in Artificial Intelligence and researcher at the Artificial Intelligence Research Institute of the Universidad Veracruzana, where she develops research in the area of Computational Learning and Intelligent Optimization.
-
+Ricardo Baeza-Yates is Director of Research at the Institute for Experiential AI of Northeastern University, as well as part-time professor at the Dept. of Computer Science of University of Chile. Before, he was VP of Research at Yahoo Labs, based in Barcelona, Spain, and later in Sunnyvale, California, from 2006 to 2016. He is co-author of the best-seller Modern Information Retrieval textbook published by Addison-Wesley in 1999 and 2011 (2nd ed), that won the ASIST 2012 Book of the Year award. From 2002 to 2004 he was elected to the Board of Governors of the IEEE Computer Society and between 2012 and 2016 was elected for the ACM Council. In 2009 he was named ACM Fellow and in 2011 IEEE Fellow, among other awards and distinctions. He obtained a Ph.D. in CS from the University of Waterloo, Canada, and his areas of expertise are responsible AI, web search and data mining plus data science and algorithms in general.
