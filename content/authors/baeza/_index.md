@@ -9,7 +9,7 @@ title: Ricardo Baeza-Yates
 first_name: Ricardo
 last_name: Baeza-Yates
 
-user_groups: ["Keynotes"]
+user_groups: ["School Speakers"]
 
 # # Status emoji
 # status:
@@ -123,11 +123,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-### Keynote Talk
-
-TBA
-
 
 ### Bio
 

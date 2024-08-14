@@ -6,8 +6,8 @@
 main:
 
 
-  # - name: Important Dates
-  #   url: '/#important-dates'
+  # - name: News
+  #   url: '/news'
   #   weight: 1
 
   # --------------------------------------------

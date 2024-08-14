@@ -1,15 +1,16 @@
 ---
 # Display name
-title: Michael Benedikt
+title: Javier A. Espinosa-Oviedo
 
 # Name pronunciation (optional)
 # name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Michael
-last_name: Benedikt
+first_name: Javier
+last_name: Espinosa Oviedo
 
-user_groups: ["Keynotes", "School Speakers"]
+user_groups:
+  - Web Chair
 
 # # Status emoji
 # status:
@@ -19,13 +20,16 @@ user_groups: ["Keynotes", "School Speakers"]
 superuser: false
 
 # Role/position/tagline
-role: Professor of Computer Science
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Oxford University
-    url: https://www.cs.ox.ac.uk
-  # - name: Northeastern University  
+  
+  - name: University of Lyon, ERIC lab, France
+    
+
+  # - name: LIRIS research lab
+  #   url: http://liris.cnrs.fr/
   
 
 # Short bio (displayed in user profile at end of posts)
@@ -123,12 +127,3 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-### Keynote Talk
-
-TBA
-
-
-### Bio
-
-Michael Benedikt is a professor at Oxford University's computer science department, and a fellow of University College Oxford. He came to Oxford after a decade in US industrial research laboratories, including a position as Distinguished Member of Technical Staff at Bell Laboratories. He has worked extensively in computational logic, finite model theory, verification, and data management, and specializes in the interaction between these topics. He has been a keynote in past meetings on mathematical logic, computational logic, description logics, and databases. He has co-authored papers receiving best paper awards and test-of-time awards in major conferences within databases and theoretical computer science, and he has served as the program chair of both the ACM Principles of Database Systems conference (2012) and the International Conference on Database Theory (2017). He currently holds an Established Career Fellowship from the UK's Engineering and Physical Science's Research Council, and serves on the steering committees for the Association for Symbolic Logic, the European Association for Theoretical Computer Science, and the International Conference on Database Theory.

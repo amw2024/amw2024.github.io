@@ -25,6 +25,3 @@ This initiative collaborates with the [DBCares team](https://dbdni.github.io/) f
 -	Transmit the nomination he/him, she/her … etc., expressed by presenters to session chairs.
 -	Include a survey or automatic counting of the number of women and other genders identified themselves as she/her and they/their attending the conference sessions (see whether this can be done automatically with the conference management system)
 
-<!--
-<a class="twitter-timeline" href="https://twitter.com/amw2024news?ref_src=twsrc%5Etfw">Tweets by amw2024news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
--->

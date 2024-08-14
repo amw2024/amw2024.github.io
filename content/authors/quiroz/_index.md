@@ -9,7 +9,9 @@ title: Marcela Quiroz Castellanos
 first_name: Marcela
 last_name: Quiroz Castellanos
 
-user_groups: ["School Speakers"]
+user_groups:
+  - "School Speakers"
+  - School Chairs
 
 # # Status emoji
 # status:
@@ -19,7 +21,7 @@ user_groups: ["School Speakers"]
 superuser: false
 
 # Role/position/tagline
-role: Fulltime Senior Researcher
+role: Research Scientist 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -129,5 +131,4 @@ highlight_name: true
 
 Dr. Quiroz received her PhD in Computer Science from the Instituto Tecnológico de Tijuana and her M.Sc. in Computer Science from the Instituto Tecnológico de Ciudad Madero. She is a member of the National System of Researchers (SNI), the Mexican Society of Computer Science, and the boards of the Mexican Academy of Computing and the Mexican Federation of Robotics. 
 
-She is a founding member of the outreach group Código IA. She is currently coordinator of the PhD in Artificial Intelligence and researcher at the Artificial Intelligence Research Institute of the Universidad Veracruzana, where she develops research in the area of Computational Learning and Intelligent Optimization.
-
+She is a founding member of the outreach group Código IA. She is currently the coordinator of the PhD in Artificial Intelligence and a researcher at the Artificial Intelligence Research Institute of the Universidad Veracruzana, where she develops research in the Computational Learning and Intelligent Optimization domain. In particular, in the context of experimental algorithms, metaheuristics, genetic algorithms, bin packing, machine learning, causal inference applications, logistics, and distributed systems.
