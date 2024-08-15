@@ -44,6 +44,19 @@ sections:
         ![Faculty of Engineering Map](map-AFI.png "Anexo de Ingenieria Buildings (Conjunto Sur)")
 
 
+
+  - block: markdown
+    design:
+      columns: 1
+    content:
+      title:  Map
+      subtitle: 
+      text: |-
+        <iframe 
+          width="100%" 
+          height="600"
+          src="https://www.google.com/maps/d/embed?mid=1BXYofSXDnofdEGwyF9_YxXNpJb5o5oM&ehbc=2E312F" >
+        </iframe>
         
 
 
