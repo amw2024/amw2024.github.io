@@ -61,7 +61,9 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">09:00 - 10:30</td>
-              <td style="text-align:left"><strong>Course TBA</strong></td>
+              <td style="text-align:left"><strong>Graph Neural Networks & Graph Management I</strong> <br>
+                <a href="/speakers#benedikt">Michael Benedikt</a> (University of Oxford)
+              </td>
             </tr>
             <tr>
               <td style="text-align:right">10:30 - 11:00</td>
@@ -73,7 +75,9 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">12:30 - 14:00</td>
-              <td style="text-align:left"><strong>Course TBA</strong></td>
+              <td style="text-align:left"><strong>Graph Neural Networks & Graph Management II</strong> <br>
+                <a href="/speakers#benedikt">Michael Benedikt</a> (University of Oxford)
+              </td>
             </tr>
             <tr>
               <td style="text-align:right">14:00 - 15:30</td>
@@ -81,7 +85,9 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">15:30 - 17:00</td>
-              <td style="text-align:left"><strong>Practical Tutorial on Hyper-heuristic Algorithms for Grouping Problems I</strong> <br>Marcela Quiroz Castellanos, IIIA-UV</td>
+              <td style="text-align:left"><strong>Practical Tutorial on Hyper-heuristic Algorithms for Grouping Problems I</strong><br>
+                <a href="/speakers#quiroz">Marcela Quiroz Castellanos</a> (IIIA-UV)
+              </td>
             </tr>
             <tr>
               <td style="text-align:right">17:00 - 17:30</td>
@@ -89,7 +95,9 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">17:30 - 19:00</td>
-              <td style="text-align:left"><strong>Practical Tutorial on Hyper-heuristic Algorithms for Grouping Problems II</strong> <br>Marcela Quiroz Castellanos, IIIA-UV</td>
+              <td style="text-align:left"><strong>Practical Tutorial on Hyper-heuristic Algorithms for Grouping Problems II</strong><br>
+                <a href="/speakers#quiroz">Marcela Quiroz Castellanos</a> (IIIA-UV)
+              </td>
             </tr>
             <tr>
               <td style="text-align:right">19:00 - 21:00</td>
@@ -114,7 +122,9 @@ sections:
         <tbody>
           <tr>
             <td style="text-align:right; width:25%">09:00 - 10:30</td>
-            <td style="text-align:left"><strong>Course TBA</strong></td>
+            <td style="text-align:left"><strong>Responsible AI I</strong></br>
+              <a href="/speakers#baeza">Ricardo Baeza-Yates</a> (Northeastern University)
+            </td>
           </tr>
           <tr>
             <td style="text-align:right">10:30 - 11:00</td>
@@ -122,11 +132,15 @@ sections:
           </tr>
           <tr>
             <td style="text-align:right">11:00 - 12:30</td>
-            <td style="text-align:left"><strong>Course TBA</strong></td>
+            <td style="text-align:left"><strong>Responsible AI II</strong></br>
+              <a href="/speakers#baeza">Ricardo Baeza-Yates</a> (Northeastern University)
+            </td>
           </tr>
           <tr>
             <td style="text-align:right">12:30 - 14:00</td>
-            <td style="text-align:left"><strong>Blockchain Practical Tutorial I</strong> <br> Rocío Aldeco Pérez, UNAM</td>
+            <td style="text-align:left"><strong>Blockchain Practical Tutorial I</strong> <br> 
+              <a href="/speakers#aldeco">Rocío Aldeco Pérez</a> (UNAM)
+            </td>
           </tr>
           <tr>
             <td style="text-align:right">14:00 - 15:30</td>
@@ -134,7 +148,9 @@ sections:
           </tr>
           <tr>
             <td style="text-align:right">15:30 - 17:00</td>
-            <td style="text-align:left"><strong>Blockchain Practical Tutorial II</strong> <br> Rocío Aldeco Pérez, UNAM</td>
+            <td style="text-align:left"><strong>Blockchain Practical Tutorial II</strong> <br> 
+              <a href="/speakers#aldeco">Rocío Aldeco Pérez</a> (UNAM)
+            </td>
           </tr>
           <tr>
             <td style="text-align:right">17:00 - 17:30</td>

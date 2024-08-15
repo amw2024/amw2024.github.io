@@ -59,6 +59,7 @@ sections:
           <i class="fa-solid fa-envelope"></i> &nbsp; reservaciones@hotelesroyal.com.mx
           
           <i class="fa-solid fa-phone"></i> &nbsp; [+52 555 494 000](tel:+52555494000) ext. 6153
+          
 
         * Mention the <mark>**event code: `UNAMSI`**</mark> 
 

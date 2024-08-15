@@ -50,9 +50,9 @@ sections:
 
   - block: markdown
     content:
-      title: D&I Disclaimer
+      title: DEI Disclaimer
       text: |-
-        The AMW community believes that diversity and culture of support encourage retention and attraction of talent, promote diversity of thought and perspective, and help make the scientific community more flexible and responsive in times of change. For these reasons, AMW 2024 continues to participate in the [Database community Diversity and Inclusion (D&I) initiative](https://dbdni.github.io/) aiming to guide researchers in our community to adopt a more inclusive mindset. For more information see the [AMW 2024 D&I statement](/dei).
+        The AMW community believes that diversity and culture of support encourage retention and attraction of talent, promote diversity of thought and perspective, and help make the scientific community more flexible and responsive in times of change. For these reasons, AMW 2024 participates in the [Database Community Diversity, Equity and Inclusion (DEI) initiative](https://dbdni.github.io/) aiming to guide researchers in our community to adopt a more inclusive mindset. For more information see the [AMW 2024 DEI statement](/dei).
 
     design:
       # See Page Builder docs for all section customization options.
