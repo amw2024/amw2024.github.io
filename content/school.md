@@ -1,6 +1,6 @@
 ---
 type : landing
-title : "AMW School Program"
+title : "School Program"
 subtitle : ""
 active : true
 weight : 41

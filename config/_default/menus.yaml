@@ -28,7 +28,7 @@ main:
     url: '/#dates'
     weight: 22
 
-  - name: Organization Officers
+  - name: Organization
     parent: "general-info"
     url: '/organization'
     weight: 23
@@ -38,7 +38,7 @@ main:
     url: '#contact'
     weight: 24
 
-  - name: D&I Statement
+  - name: DEI Statement
     parent: "general-info"
     url: '/dei'
     weight: 25  
@@ -100,12 +100,12 @@ main:
 
   - name: School Program
     parent: program
-    url: '/school'
+    url: '/program#school'
     weight: 41
 
   - name: Workshop Program
     parent: program
-    url: '/workshop'
+    url: '/program#workshop'
     weight: 42
 
   
@@ -184,10 +184,10 @@ main:
     url: '/hotels'
     weight: 63  
 
-  - name: Banquet
-    parent: info
-    url: '/tbd'
-    weight: 64  
+  # - name: Banquet
+  #   parent: info
+  #   url: '/tbd'
+  #   weight: 64  
 
 
   # --------------------------------------------

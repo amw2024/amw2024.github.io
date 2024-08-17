@@ -1,6 +1,6 @@
 ---
 type : landing
-title : "AMW Program"
+title : "Workshop Program"
 subtitle : ""
 active : true
 weight : 41

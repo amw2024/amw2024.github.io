@@ -1,7 +1,7 @@
 ---
 title: Organization Officers
-
 type: page
+share: false
 
 sections:
 
