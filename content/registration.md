@@ -39,6 +39,11 @@ sections:
         In case of any cancellation or non-attendance, the **registration fees are not refundable**.
 
 
+
+
+        <script src="https://www.paypal.com/sdk/js?client-id=BAA9kR5VqGbGYflm-bktubQxa1q9N7dgKmH7i3KNqHzTA_a3ujKHXrC7poQXaJRyeCGkBLH8pV1pNQ3CUI&components=hosted-buttons&disable-funding=venmo&currency=USD"></script> <div id="paypal-container-5BMQ64FYER2ME"></div> <script> paypal.HostedButtons({ hostedButtonId: "5BMQ64FYER2ME", }).render("#paypal-container-5BMQ64FYER2ME") </script>
+
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
