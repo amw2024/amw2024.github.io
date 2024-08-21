@@ -100,7 +100,7 @@ main:
 
   - name: School Program
     parent: program
-    url: '/program#school'
+    url: '/program'
     weight: 41
 
   - name: Workshop Program
