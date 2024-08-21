@@ -41,7 +41,7 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">09:00 - 10:30</td>
-              <td style="text-align:left"><strong>Graph Neural Networks & Graph Management I</strong> <br>
+              <td style="text-align:left"><strong>Analysis of Graph Neural Networks via Graph Query Languages Tutorial I</strong> <br>
                 <a href="/speakers#benedikt">Michael Benedikt</a> (University of Oxford)
               </td>
             </tr>
@@ -55,7 +55,7 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">12:30 - 14:00</td>
-              <td style="text-align:left"><strong>Graph Neural Networks & Graph Management II</strong> <br>
+              <td style="text-align:left"><strong>Analysis of Graph Neural Networks via Graph Query Languages Tutorial II</strong> <br>
                 <a href="/speakers#benedikt">Michael Benedikt</a> (University of Oxford)
               </td>
             </tr>
