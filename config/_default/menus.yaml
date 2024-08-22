@@ -6,9 +6,9 @@
 main:
 
 
-  # - name: News
-  #   url: '/news'
-  #   weight: 1
+  - name: News
+    url: '/news'
+    weight: 1
 
   # --------------------------------------------
   # GENERAL INFORMATION
@@ -69,7 +69,6 @@ main:
 
 
 
-
   # --------------------------------------------
   # Speakers
   # --------------------------------------------
@@ -108,7 +107,10 @@ main:
     url: '/program#workshop'
     weight: 42
 
-  
+  - name: Accepted Papers
+    parent: program
+    url: '/accepted-papers'
+    weight: 80  
 
 
 

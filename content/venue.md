@@ -46,11 +46,12 @@ sections:
 
 
   - block: markdown
+    id: poi
     design:
       columns: 1
     content:
       title:  Map
-      subtitle: 
+      subtitle: Point of Interest
       text: |-
         <iframe 
           width="100%" 
