@@ -9,9 +9,7 @@ weight : 41
 sections:
 
 # Papers on Hold
-# `4872`	| **cKdtree: a Compact Kdtree for spatial data** </br> Gilberto Gutierrez, Rodrigo Torres-Avilés and Monica Caniupan
 # `1130`	| **Towards SHACL Validation of Evolving Graphs** </br> Shqiponja Ahmetaj, Magdalena Ortiz and Mantas Šimkus
-# `7893`	| **Continuous Query Engine to Detect Anomalous ATM transactions** </br> Fernando Martín-Canfrán, Daniel Benedí, Amalia Duch and Edelmira Pasarella
 
   - block: markdown
     design:
@@ -35,6 +33,8 @@ sections:
         `2300` | **Opportunities for Shape-based Optimization of Link Traversal Queries** </br> Bryan-Elliott Tam, Ruben Taelman, Pieter Colpaert and Ruben Verborgh
         `3781` | **WoolNet: Finding and Visualising Paths in Knowledge Graphs** </br> Cristóbal Torres and Aidan Hogan      
         `2142` | **Towards FATEful Smart Contracts** </br> Luigi Bellomarini, Marco Favorito, Eleonora Laurenza, Markus Nissl and Emanuel Sallinger
+        `4872`	| **cKdtree: a Compact Kdtree for spatial data** </br> Gilberto Gutierrez, Rodrigo Torres-Avilés and Monica Caniupan
+        `7893`	| **Continuous Query Engine to Detect Anomalous ATM transactions** </br> Fernando Martín-Canfrán, Daniel Benedí, Amalia Duch and Edelmira Pasarella
 
 ---
 
