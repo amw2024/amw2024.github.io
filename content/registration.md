@@ -12,23 +12,23 @@ sections:
     design:
       columns: '2' 
     content:
-      title: 
+      title: Fees
       subtitle: 
       text: |-
-
-        # Fees
-        </br>
-
         |                   |  Early Bird |  Late (after September 5, 2024) |
         |:----------|------:|------:|
         | **School only**            |     `$ 450 USD` | `$   600 USD`
         | **Workshop only**          |     `$ 850 USD` | `$ 1,000 USD`
         | **Workshop + School**      |   `$ 1,250 USD` | `$ 1,400 USD`
-        
-        {{% callout note %}}
+ 
+ 
+        Remarks: 
         * **School fee includes**: 2 lunches + 1 dinner + 1 special dinner.    
         * **Workshop fee includes**: 3 lunches + 1 dinner + 1 banquet.    
         * **All fees** include daily cultural activities with a two-way transportation facility when required.
+        
+        {{% callout note %}}
+        Information about the registration process will be communicated soon. 
         {{% /callout %}}
 
 
@@ -37,18 +37,20 @@ sections:
   #   design:
   #     columns: '2'     
   #   content:
-  #     title: 
+  #     title: Registration Procedure
   #     subtitle: 
   #     text: |-
 
-  #       # Registration Procedure
+  #       {{% callout warning %}}
+  #       Keep your proof of payment. You will need it in step 2.
+  #       {{% /callout %}}
 
-  #       1. Select a payment method: 
+  #       1. Select the appropiate payment method: 
 
-  #       * [Paypal / Credit Card](https://www.paypal.com/ncp/payment/5BMQ64FYER2ME) (**abroad participants**)
-  #       * [National Bank Transfer](#bank-transfer) (**participants in Mexico**)
+  #       * [Paypal / Credit Card](https://www.paypal.com/ncp/payment/5BMQ64FYER2ME) (**participants outside Mexico**)
+  #       * [National Bank Transfer](#bank-transfer)
 
-  #       2. Fill in the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSewP1TnI6kWHHqi4BhkWerzBQFGgd9sQ-soIiSCbzKyeG1auw/viewform?usp=sf_link) and <mark>**upload your proof of payment**</mark>.
+  #       2. Fill in the [Registration Form](https://forms.gle/8gazRjhpCWc3b3dN6) and upload your proof of payment
 
   #       3. Answer the short [DEI Survey](https://docs.google.com/forms/d/e/1FAIpQLSekJyCFrz2sgVUKvMq_6zPaHU3gWr4fGPWxcJ13rRjjJ0Csgg/viewform?usp=sharing)
 
@@ -64,10 +66,9 @@ sections:
   #   design:
   #     columns: '2' 
   #   content:
-  #     title: 
-  #     subtitle: 
+  #     title: Bank Transfer
+  #     subtitle: National Institutions/Participants only
   #     text: |-
-  #       # National Bank Transfer 
 
   #       **Bank**: BBVA BANCOMER   
   #       **Account**: 0113417697  

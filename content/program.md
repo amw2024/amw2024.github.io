@@ -278,7 +278,7 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">18:30 - 23:00</td>
-              <td style="text-align:left"><strong>Dinner</strong></td>
+              <td style="text-align:left"><strong>Banquet</strong></td>
             </tr>
           </tbody>
         </table>
