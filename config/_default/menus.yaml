@@ -73,44 +73,44 @@ main:
   # Speakers
   # --------------------------------------------
 
-  - name: Speakers
-    identifier: speakers
-    weight: 3
-    url: '/keynotes'
+  # - name: Speakers
+  #   identifier: speakers
+  #   weight: 3
+  #   url: '/keynotes'
 
-  - name: School Speakers
-    parent: speakers
-    weight: 42
-    url: '/speakers'
+  # - name: School Speakers
+  #   parent: speakers
+  #   weight: 42
+  #   url: '/speakers'
 
-  - name: Keynote Speakers
-    parent: speakers
-    weight: 42
-    url: '/keynotes'
+  # - name: Keynote Speakers
+  #   parent: speakers
+  #   weight: 42
+  #   url: '/keynotes'
 
 
   # --------------------------------------------
   # PROGRAM
   # --------------------------------------------
 
-  - name: Program
-    identifier: program
-    weight: 4
+  # - name: Program
+  #   identifier: program
+  #   weight: 4
 
-  - name: School Program
-    parent: program
-    url: '/program'
-    weight: 41
+  # - name: School Program
+  #   parent: program
+  #   url: '/program'
+  #   weight: 41
 
-  - name: Workshop Program
-    parent: program
-    url: '/program#workshop'
-    weight: 42
+  # - name: Workshop Program
+  #   parent: program
+  #   url: '/program#workshop'
+  #   weight: 42
 
-  - name: Accepted Papers
-    parent: program
-    url: '/accepted-papers'
-    weight: 80  
+  # - name: Accepted Papers
+  #   parent: program
+  #   url: '/accepted-papers'
+  #   weight: 80  
 
 
 
@@ -118,46 +118,45 @@ main:
   # WORKSHOP PROGRAM
   # --------------------------------------------
 
-  # - name: Workshop Program
-  #   identifier: workshop
-  #   weight: 4
+  - name: Workshop
+    identifier: workshop
+    weight: 4
 
-  # - name: Keynote Speakers
-  #   parent: workshop
-  #   url: '/keynotes'
-  #   weight: 41
+  - name: Keynotes
+    parent: workshop
+    weight: 41
+    url: '/keynotes'
 
-  # - name: Workshop Full Program
-  #   parent: workshop
-  #   url: '/workshop'
-  #   weight: 42
+  - name: Accepted Papers
+    parent: workshop
+    url: '/accepted-papers'
+    weight: 42
+    
 
-
-
+  - name: Workshop Program
+    parent: workshop
+    url: '/program#workshop'
+    weight: 43
+    
 
   # --------------------------------------------
   # SCHOOL PROGRAM
   # --------------------------------------------
 
-  # - name: School Program
-  #   identifier: school
-  #   url: '/school'
-  #   weight: 40
+  - name: School
+    identifier: school
+    url: '/school'
+    weight: 40
 
-  # - name: Speakers
-  #   parent: school
-  #   url: '/school#speakers'
-  #   weight: 41
+  - name: Speakers
+    parent: school
+    url: '/school#speakers'
+    weight: 141
   
-  # - name: Program
-  #   parent: school
-  #   url: '/school#program'
-  #   weight: 42
-
-
-  # - name: Organization
-  #   url: '/organization'
-  #   weight: 50
+  - name: School Program
+    parent: school
+    url: '/program'
+    weight: 142
 
 
 
@@ -196,11 +195,15 @@ main:
   # Others
   # --------------------------------------------
 
+  - name: Previous AMW
+    identifier: past
+    url: 'https://en.wikipedia.org/wiki/Alberto_O._Mendelzon#Alberto_Mendelzon_International_Workshop_on_Foundation_of_Databases_and_the_Web_(AMW)'
+    weight: 100
+
+    
 
 
 
-  # - name: Previous AWS
-  #   url: 'https://easychair.org/cfp/amw2023'
-  #   weight: 80
+
 
 

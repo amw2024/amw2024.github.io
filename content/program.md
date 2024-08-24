@@ -195,7 +195,7 @@ sections:
               <td style="text-align:right">09:00 - 10:00</td>
               <td style="text-align:left">
                 <strong>Keynote 1</strong> 
-                </br>Michael Benedikt (University of Oxford)
+                </br><a href="/keynotes#benedikt">Michael Benedikt</a> (University of Oxford)
               </td>
             </tr>
             <tr>
@@ -304,7 +304,9 @@ sections:
           <tbody>
             <tr>
               <td style="text-align:right; width:25%">09:00 - 10:00</td>
-              <td style="text-align:left"><strong>Keynote 3</strong></td>
+              <td style="text-align:left"><strong>Keynote 3</strong></br>
+                <a href="/keynotes#acosta">Maribel Acosta Deibe</a> (TUM)
+              </td>              
             </tr>
             <tr>
               <td style="text-align:right">10:30 - 14:00</td>
