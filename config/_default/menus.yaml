@@ -170,20 +170,25 @@ main:
     url: '/venue'
     weight: 60
 
-  - name: Registration
+  - name: Fees
     parent: "info"
     url: '/registration'
     weight: 61
 
+  - name: Registration
+    parent: "info"
+    url: '/registration#procedure'
+    weight: 62
+
   - name: Venue
     parent: info
     url: '/venue'
-    weight: 62  
+    weight: 63  
 
   - name: Accomodation
     parent: info
     url: '/hotels'
-    weight: 63  
+    weight: 64  
 
   # - name: Banquet
   #   parent: info
