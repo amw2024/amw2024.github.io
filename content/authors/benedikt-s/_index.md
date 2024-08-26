@@ -124,6 +124,16 @@ social:
 highlight_name: true
 ---
 
+## Tutorial
+
+### Analysis of Graph Neural Networks via Graph Query Languages 
+
+Graph neural networks (GNNs) are the predominant architectures for a variety of learning tasks on graphs. 
+A major line of research in graph learning is to understand what GNNs can and cannot do: their expressive power. In this course we explain how to understand the behaviour of GNNs by embedding them in a query language and then analyzing the query language. We will focus on probabilistic analysis of GNNs: how do the models behave on large random graphs? There are many different flavors of GNNs, and also a wide variety of different random graph model. In the tutorial, we will overview several variations of each, since they impact the analysis.
+
+At the center of the course will be convergence results for GNNs, saying that on a random input, the GNN does something very simple. These results can be related to the limitations of standard GNN models, and can motivated extensions. But we will also relate them to a long line of research in probabilistic analysis of logics and query languages, a line going back to work of Ron Fagin in 1976. The talk will include joint work with Sam Adam-Day, Ismail Ceylan, and Ben Finkeshtein ([Almost Surely Asymptotically Constant Graph Neural Networks](https://arxiv.org/abs/2403.03880)). It will also include ongoing joint work with Sam Adam-Day and Alberto Larrauri.
+
+
 ### Bio
 
 Michael Benedikt is a professor at Oxford University's computer science department, and a fellow of University College Oxford. He came to Oxford after a decade in US industrial research laboratories, including a position as Distinguished Member of Technical Staff at Bell Laboratories. He has worked extensively in computational logic, finite model theory, verification, and data management, and specializes in the interaction between these topics. He has been a keynote in past meetings on mathematical logic, computational logic, description logics, and databases. He has co-authored papers receiving best paper awards and test-of-time awards in major conferences within databases and theoretical computer science, and he has served as the program chair of both the ACM Principles of Database Systems conference (2012) and the International Conference on Database Theory (2017). He currently holds an Established Career Fellowship from the UK's Engineering and Physical Science's Research Council, and serves on the steering committees for the Association for Symbolic Logic, the European Association for Theoretical Computer Science, and the International Conference on Database Theory.

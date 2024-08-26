@@ -41,8 +41,8 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">09:00 - 10:30</td>
-              <td style="text-align:left"><strong>Analysis of Graph Neural Networks via Graph Query Languages Tutorial I</strong> <br>
-                <a href="/speakers#benedikt">Michael Benedikt</a> (University of Oxford)
+              <td style="text-align:left"><strong><a href="/speakers#benedikt">Analysis of Graph Neural Networks via Graph Query Languages (I)</a></strong>
+                </br> Michael Benedikt (University of Oxford)
               </td>
             </tr>
             <tr>
@@ -55,8 +55,8 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">12:30 - 14:00</td>
-              <td style="text-align:left"><strong>Analysis of Graph Neural Networks via Graph Query Languages Tutorial II</strong> <br>
-                <a href="/speakers#benedikt">Michael Benedikt</a> (University of Oxford)
+              <td style="text-align:left"><strong><a href="/speakers#benedikt">Analysis of Graph Neural Networks via Graph Query Languages (II)</a></strong>
+                </br> Michael Benedikt (University of Oxford)
               </td>
             </tr>
             <tr>
@@ -194,8 +194,8 @@ sections:
             <tr>
               <td style="text-align:right">09:00 - 10:00</td>
               <td style="text-align:left">
-                <strong>Keynote 1</strong> 
-                </br><a href="/keynotes#benedikt">Michael Benedikt</a> (University of Oxford)
+                <strong>Keynote 1: <a href="/keynotes#benedikt">Verification of Graph Learning Models and Analysis of Query Languages</a></strong> 
+                </br>Michael Benedikt (University of Oxford)
               </td>
             </tr>
             <tr>

@@ -150,7 +150,7 @@ main:
 
   - name: Speakers
     parent: school
-    url: '/school#speakers'
+    url: '/speakers'
     weight: 141
   
   - name: School Program
