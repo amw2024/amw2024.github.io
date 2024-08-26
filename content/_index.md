@@ -117,4 +117,18 @@ sections:
       columns: '2'
 
 
+  # - block: markdown
+  #   id: sponsors
+  #   design:
+  #     columns: '2' 
+  #   content:
+  #     title: Sponsors
+  #     subtitle: 
+  #     text: |-
+
+
+
+        
+
+
 ---

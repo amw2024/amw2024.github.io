@@ -15,13 +15,19 @@ sections:
       title: Fees
       subtitle: 
       text: |-
-        |                   |  Early Bird |  Late (after September 9, 2024) |
-        |:----------|------:|------:|
-        | **School only**            |     `$ 450 USD` | `$   600 USD`
-        | **Workshop only**          |     `$ 850 USD` | `$ 1,000 USD`
-        | **Workshop + School**      |   `$ 1,250 USD` | `$ 1,400 USD`
- 
- 
+        {{% callout warning %}}
+        **Authors**    
+        We kindly ask you to register **<mark>no later than September, 9th</mark>**.
+        {{% /callout %}}
+        
+
+        |                   |  Early Bird _(<mark>until September 15th, 2024</mark>)_   |  Normal  
+        |:----------|------:|------:
+        | **School only**            |     `$ 450 USD` | `$   600 USD` 
+        | **Workshop only**          |     `$ 850 USD` | `$ 1,000 USD` 
+        | **Workshop + School**      |   `$ 1,250 USD` | `$ 1,400 USD` 
+
+
         Remarks: 
         * **School fee includes**: 2 lunches + 1 dinner + 1 special dinner.    
         * **Workshop fee includes**: 3 lunches + 1 dinner + 1 banquet.    
