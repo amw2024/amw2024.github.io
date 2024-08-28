@@ -38,10 +38,15 @@ main:
     url: '#contact'
     weight: 24
 
+  - name: Sponsors
+    parent: "general-info"
+    url: '#sponsors'
+    weight: 25
+
   - name: DEI Statement
     parent: "general-info"
     url: '/dei'
-    weight: 25  
+    weight: 26  
 
   # --------------------------------------------
   # CALL FOR SUBMISSIONS

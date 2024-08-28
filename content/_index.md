@@ -117,18 +117,25 @@ sections:
       columns: '2'
 
 
-  # - block: markdown
-  #   id: sponsors
-  #   design:
-  #     columns: '2' 
-  #   content:
-  #     title: Sponsors
-  #     subtitle: 
-  #     text: |-
+  - block: markdown
+    id: sponsors
+    design:
+      columns: '2' 
+    content:
+      title: Sponsors
+      subtitle: 
+      text: |-
 
+        <div class="logos">
+          
+          <a href="https://www.vldb.org" target="_blank" rel="noopener noreferrer" title="VLDB Endowment">
+            <img src="/uploads/logos/vldb.gif">
+          </a>   
 
+          <a href="https://mx.ambafrance.org" target="_blank" rel="noopener noreferrer" title="Ambassade de France au Mexique">
+            <img src="/uploads/logos/ambassade-france.svg" width="152px" height="150px">
+          </a>    
 
-        
-
+        </div>
 
 ---
