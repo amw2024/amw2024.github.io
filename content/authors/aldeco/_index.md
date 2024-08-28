@@ -19,7 +19,7 @@ user_groups: ["School Speakers"]
 superuser: false
 
 # Role/position/tagline
-role: Research Associate Professor
+role: Associate Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -127,14 +127,16 @@ social:
 highlight_name: true
 ---
 
+## Tutorial
+
+### Principles of Blockchain
+
+The tutorial will cover the basic concepts of the Blockchain as well as its types, elements, advantages and disadvantages. At the end of this tutorial, the attendee will be able to implement a small application that will allow him/her to decide the best applications of this technology technology.
+
 ### Bio 
 
-Rocío Aldeco-Pérez is a Research Associate Professor at Universidad Nacional Autónoma de México (UNAM), Faculty of Engineering, at the Department of Computer Engineering.  
+Rocío Aldeco-Pérez, Ph.D. in Computer Science from the University of Southampton in the United Kingdom, is a researcher specializing in Cryptography and Security. She currently serves as a full-time associate professor in the Department of Computer Science at the School of Engineering at UNAM, where she also holds the position of Department Head.
 
-She holds a PhD in Computer Science from the University of Southampton in the area of provenance as secure evidence for automatic audits. Rocío also holds a Bachelor of Science and a Master of Science from the Benemérita Universidad Autónoma de Puebla, Mexico. During her studies she specialised in Computer Security. 
+Dr. Aldeco-Pérez is passionate about research and teaching. Her research interests encompass critical areas such as information privacy, decentralized and distributed cryptographic protocols, as well as the development of secure applications using blockchain technology. Throughout her career, she has led numerous research and consulting projects in these domains, supervised academic theses, and made significant contributions to scholarly publications.
 
-She has led and collaborated in various research projects related to security, traceability and education. Currently, she is CO-PI at the Algorand Centres of Excellence  MEGA-ACE in collaboration with Purdue University. At UNAM, she administrates the CISCO Hybrid Classroom and collaborates at the Artificial Intelligence Lab at UNAM. 
-
-She has also consulted and offered specialized courses to government and industry about privacy and security of information. In addition, she teaches courses related to Security and Cryptography at the Bachelor in Computer Engineering and the Master in Science and Engineering in Computing both at UNAM while continuing her research and supervising Bachelor’s and Master’s students.
-
-Currently, she is Head of Department of Computer Engineering and an active member of the AMEXCOMP Women's chapter to promote equality in Computer Science in Mexico.
+In addition to her academic activities, Dr. Aldeco-Pérez is a member of the Mexican Academy of Computing and served on the executive committee of ACM-W North America. She is actively involved in initiatives like "Women in STEM, Future Leaders" and "Women in Computing," which aim to promote the participation of girls and women in the fields of Science, Technology, Engineering, and Mathematics (STEM). 
