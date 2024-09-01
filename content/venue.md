@@ -6,34 +6,43 @@ type: landing
 
 sections:
 
+  - block: markdown
+    design:
+      columns: 2
+    content:
+      title:  Venue
+      subtitle: UNAM, Ciudad Universitaria
+      text: |-
+        
+        AMW 2024 will take place in the **National Autonomous University of Mexico** campus **Ciudad Universitaria** ("CU"), in Mexico City. 
+
+        UNAM is a public university and one of the largest universities on the continent. Three Nobel laureates and most of Mexico's modern-day presidents are among its former students. UNAM conducts 25% of Mexico's scientific research and has presence all across the country with satellite campuses, observatories and research centres. 
+
+        [**Ciudad Universitaria**](https://en.wikipedia.org/wiki/Ciudad_Universitaria,_Mexico_City) is UNAM main campus. It was designed by some of Mexico's best-known architects and artists of the 20th century. It was named World Heritage Site by UNESCO in 2007. Visits to Ciudad Universitaria often include the museums, the open areas, and the famous sculpture space, all part of the [UNAM Cultural Center](https://mexicocity.cdmx.gob.mx/tag/unam-cc/). The campus also hosted the main events of the [1968 Summer Olympics](https://en.wikipedia.org/wiki/1968_Summer_Olympics).
+        
+
   # - block: markdown
   #   design:
   #     columns: 2
   #   content:
-  #     title:  Venue
+  #     title:  Getting to ...
   #     subtitle: 
   #     text: |-
+        
+  #       Fligth to Benito Juarez International Airport
 
-  #       The workshop will take place in the National Autonomous University of Mexico (UNAM).
-
-  #       The UNAM is located in Mexico City and is the largest university on the continent, with more than 300,000 students from all backgrounds. Three Nobel laureates, several Mexican entrepreneurs and most of Mexico's modern-day presidents are among its former students. UNAM conducts 50% of Mexico's scientific research and has presence all across the country with satellite campuses, observatories and research centres. The sprawling main campus of the university, known as Ciudad Universitaria, was named a World Heritage Site by UNESCO in 2007.
-
-  #       {{< gallery album="unam" >}}
+         
 
 
   - block: markdown
     design:
       columns: 2
     content:
-      title:  Venue
+      title:  Rooms
       subtitle: 
       text: |-
 
-        The workshop and the school's main activities will take place at **UNAM Campus Ciudad Universitaria**, in the **Anexo de Ingenieria** area (see maps below).
-
-        ### Rooms
-
-        Depending on the day, the activities will take place in one of the following rooms:
+        The workshop and the school's main activities will take place in the **Anexo de Ingenieria** area (see maps below). Depending on the day, the activities will take place in one of the following rooms:
         
           <i class="fa-solid fa-location-dot"></i> &nbsp; [**Auditorium "Raúl J. Marsal"**](https://maps.app.goo.gl/XptTbavsqafhgVGp6), Building T     
           <i class="fa-solid fa-location-dot"></i> &nbsp; [**Aula "Cisco" (Q218)**](https://maps.app.goo.gl/At2wCBFHygoaKVSYA), Building Q, 2nd floor     
