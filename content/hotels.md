@@ -50,7 +50,7 @@ sections:
         ### Reservation Process
 
         {{% callout note %}}
-        **Negotiated rates** apply exclusively to the official dates of the event (**from October 4th to 6th, 2024**), and also **apply 3 days before and 3 days after the event**.
+        **Negotiated rates** apply **from September 29th to October 5th**, 2024.
         {{% /callout %}}
 
 
