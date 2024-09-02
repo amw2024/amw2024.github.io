@@ -136,6 +136,10 @@ sections:
             <img src="/uploads/logos/ambassade-france.svg" width="152px" height="150px">
           </a>    
 
+          <a href="https://www.acm.org" target="_blank" rel="noopener noreferrer" title="Association for Computing Machinery">
+            <img src="/uploads/logos/acm.svg" width="152px" height="150px">
+          </a>    
+
         </div>
 
 ---
