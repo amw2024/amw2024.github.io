@@ -185,15 +185,20 @@ main:
     url: '/registration#procedure'
     weight: 62
 
+  # - name: Grants
+  #   parent: "info"
+  #   url: '/grants'
+  #   weight: 63
+
   - name: Venue
     parent: info
     url: '/venue'
-    weight: 63  
+    weight: 64  
 
   - name: Accomodation
     parent: info
     url: '/hotels'
-    weight: 64  
+    weight: 65  
 
   # - name: Banquet
   #   parent: info
@@ -205,10 +210,15 @@ main:
   # Others
   # --------------------------------------------
 
+  - name: Grant Program
+    url: '/grants'
+    weight: 100
+
+
   - name: Previous AMW
     identifier: past
     url: 'https://en.wikipedia.org/wiki/Alberto_O._Mendelzon#Alberto_Mendelzon_International_Workshop_on_Foundation_of_Databases_and_the_Web_(AMW)'
-    weight: 100
+    weight: 110
 
     
 
