@@ -7,6 +7,10 @@ type: landing
 sections:
 
   - block: markdown
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'      
     content:
       title:  Accomodation
       subtitle: 
@@ -23,15 +27,13 @@ sections:
           [^2]: Taxes included, **breakfast NOT included**
           [^3]: 1 extra person maximum per room          
 
+    
+
+  - block: markdown
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'    
-
-
-
-
-  - block: markdown
+      columns: '2'    
     content:
       title: 
       subtitle: 
@@ -67,10 +69,7 @@ sections:
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12977.000691547943!2d-99.20326916407232!3d19.299089418238633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cdffdb2894cd8d%3A0x4ae3fc4f6f9b2130!2sRoyal%20Pedregal!5e0!3m2!1sen!2sfr!4v1722710019760!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         -->
         
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'  
+
 
 
   - block: markdown
@@ -107,7 +106,7 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'  
+      columns: '2'  
 
 
 
