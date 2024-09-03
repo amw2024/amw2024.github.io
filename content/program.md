@@ -250,7 +250,9 @@ sections:
           <tbody>
             <tr>
               <td style="text-align:right; width:25%">09:00 - 10:00</td>
-              <td style="text-align:left"><strong>Keynote 2</strong></td>
+              <td style="text-align:left"><strong>Keynote 2</strong>
+                </br><a href="/keynotes#acosta">Maribel Acosta Deibe</a> (TUM)              
+              </td>
             </tr>
             <tr>
               <td style="text-align:right">10:00 - 10:30</td>
@@ -304,9 +306,7 @@ sections:
           <tbody>
             <tr>
               <td style="text-align:right; width:25%">09:00 - 10:00</td>
-              <td style="text-align:left"><strong>Keynote 3</strong></br>
-                <a href="/keynotes#acosta">Maribel Acosta Deibe</a> (TUM)
-              </td>              
+              <td style="text-align:left"><strong>Keynote 3</strong></td>              
             </tr>
             <tr>
               <td style="text-align:right">10:30 - 14:00</td>
