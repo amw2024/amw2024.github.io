@@ -65,8 +65,9 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">15:30 - 17:00</td>
-              <td style="text-align:left"><strong>Practical Tutorial on Hyper-heuristic Algorithms for Grouping Problems I</strong><br>
-                <a href="/speakers#quiroz">Marcela Quiroz Castellanos</a> (IIIA-UV)
+              <td style="text-align:left">
+                <a href="/speakers#quiroz"><strong>Practical Tutorial on Hyper-heuristic Algorithms for Grouping Problems I</strong></a>
+                <br>Marcela Quiroz Castellanos (IIIA, Universidad Veracruzana)
               </td>
             </tr>
             <tr>
@@ -75,8 +76,9 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">17:30 - 19:00</td>
-              <td style="text-align:left"><strong>Practical Tutorial on Hyper-heuristic Algorithms for Grouping Problems II</strong><br>
-                <a href="/speakers#quiroz">Marcela Quiroz Castellanos</a> (IIIA-UV)
+              <td style="text-align:left">
+                <a href="/speakers#quiroz"><strong>Practical Tutorial on Hyper-heuristic Algorithms for Grouping Problems I</strong></a>
+                <br>Marcela Quiroz Castellanos (IIIA, Universidad Veracruzana)
               </td>
             </tr>
             <tr>
@@ -251,7 +253,7 @@ sections:
             <tr>
               <td style="text-align:right; width:25%">09:00 - 10:00</td>
               <td style="text-align:left"><strong>Keynote 2</strong>
-                </br><a href="/keynotes#acosta">Maribel Acosta Deibe</a> (TUM)              
+                </br><a href="/keynotes#acosta">Maribel Acosta Deibe</a> (Technical University of Munich)              
               </td>
             </tr>
             <tr>

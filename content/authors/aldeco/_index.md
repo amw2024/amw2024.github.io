@@ -127,7 +127,7 @@ social:
 highlight_name: true
 ---
 
-## Tutorial
+## Practical Tutorial
 
 ### Principles of Blockchain
 

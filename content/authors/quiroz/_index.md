@@ -127,6 +127,12 @@ social:
 highlight_name: true
 ---
 
+## Practical Tutorial
+
+### Hyper-heuristic Algorithms for Grouping Problems
+
+Grouping problems are combinatorial problems that emerge in several numerous real-world applications. One of the most outstanding metaheuristics to solve NP-hard grouping problems is the Grouping Genetic Algorithm (GGA). This tutorial presents an experimental approach to designing high-level GGAs by incorporating intelligent rules or learning methods to automate the process of selecting, combining, generating, or adapting several simpler heuristics (or components of such heuristics) to solve computational search problems efficiently. We will start with a general introduction to a case study, the R||Cmax grouping problem, as well as an introduction to Grouping Genetic Algorithms. In the second part, we will focus on the classification of Hyper-heuristic Algorithms. For this purpose, we will present different approaches to recognize their operation and contextualize the procedure of a Hyper-heuristic Grouping Genetic Algorithm with an Online Selection of Variation Operators for the R||Cmax grouping problem, which will be coded in Google Colab. We will close the tutorial by discussing possible future research paths in this direction.
+
 ### Bio
 
 Dr. Quiroz received her PhD in Computer Science from the Instituto Tecnológico de Tijuana and her M.Sc. in Computer Science from the Instituto Tecnológico de Ciudad Madero. She is a member of the National System of Researchers (SNI), the Mexican Society of Computer Science, and the boards of the Mexican Academy of Computing and the Mexican Federation of Robotics. 
