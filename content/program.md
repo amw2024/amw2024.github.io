@@ -27,6 +27,10 @@ sections:
       subtitle: "`Monday`"
       text: |-
 
+        {{% callout note %}}
+        Room: **Auditorium "Raúl J. Marsal"** ([see maps](/venue/#rooms))   
+        {{% /callout %}}
+
         <table class="table">
           <thead style='display:none;'>
             <tr>
@@ -99,6 +103,13 @@ sections:
       title:  1 October
       subtitle: "`Tuesday`"
       text: |-
+
+
+        {{% callout note %}}
+        Room: **Aula "Cisco" (Q218)** ([see maps](/venue/#rooms))   
+        {{% /callout %}}
+
+        
 
         <table class="table">
         <thead style='display:none;'>
@@ -181,6 +192,10 @@ sections:
       subtitle: "`Wednesday`"
       text: |-
 
+        {{% callout note %}}
+        Room: **Auditorium "Raúl J. Marsal"** ([see maps](/venue/#rooms))   
+        {{% /callout %}}
+
         <table class="table">
           <thead style='display:none;'>
             <tr>
@@ -242,6 +257,10 @@ sections:
       subtitle: "`Thursday`"
       text: |-
 
+        {{% callout note %}}
+        Room: **Auditorium "Raúl J. Marsal"** ([see maps](/venue/#rooms))   
+        {{% /callout %}}
+
         <table class="table">
           <thead style='display:none;'>
             <tr>
@@ -297,7 +316,11 @@ sections:
       title:  4 October
       subtitle: "`Friday`"
       text: |-
-      
+
+        {{% callout note %}}
+        Room: **Auditorium "Raúl J. Marsal"** ([see maps](/venue/#rooms))   
+        {{% /callout %}}
+
         <table class="table">
           <thead style='display:none;'>
             <tr>

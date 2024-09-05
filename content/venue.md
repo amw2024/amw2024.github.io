@@ -35,6 +35,7 @@ sections:
 
 
   - block: markdown
+    id: rooms
     design:
       columns: 2
     content:
