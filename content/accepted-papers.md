@@ -8,9 +8,6 @@ weight : 41
 
 sections:
 
-# Papers on Hold
-# `1130`	| **Towards SHACL Validation of Evolving Graphs** </br> Shqiponja Ahmetaj, Magdalena Ortiz and Mantas Šimkus
-
   - block: markdown
     design:
       columns: '2' 
@@ -35,6 +32,8 @@ sections:
         `2142` | **Towards FATEful Smart Contracts** </br> Luigi Bellomarini, Marco Favorito, Eleonora Laurenza, Markus Nissl and Emanuel Sallinger
         `4872`	| **cKdtree: a Compact Kdtree for spatial data** </br> Gilberto Gutierrez, Rodrigo Torres-Avilés and Monica Caniupan
         `7893`	| **Continuous Query Engine to Detect Anomalous ATM transactions** </br> Fernando Martín-Canfrán, Daniel Benedí, Amalia Duch and Edelmira Pasarella
+        `1130`	| **Towards SHACL Validation of Evolving Graphs** </br> Shqiponja Ahmetaj, Magdalena Ortiz and Mantas Šimkus
+
 
 ---
 
