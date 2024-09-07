@@ -122,7 +122,7 @@ sections:
           <tr>
             <td style="text-align:right; width:25%">09:00 - 10:30</td>
             <td style="text-align:left"><strong>Responsible AI I</strong></br>
-              <a href="/speakers#baeza">Ricardo Baeza-Yates</a> (Northeastern University)
+              <a href="/speakers#baeza">Ricardo Baeza-Yates</a> (Institute for Experiential AI @ Northeastern University)
             </td>
           </tr>
           <tr>
@@ -132,7 +132,7 @@ sections:
           <tr>
             <td style="text-align:right">11:00 - 12:30</td>
             <td style="text-align:left"><strong>Responsible AI II</strong></br>
-              <a href="/speakers#baeza">Ricardo Baeza-Yates</a> (Northeastern University)
+              <a href="/speakers#baeza">Ricardo Baeza-Yates</a> (Institute for Experiential AI @ Northeastern University)
             </td>
           </tr>
           <tr>

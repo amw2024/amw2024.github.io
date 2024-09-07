@@ -124,6 +124,12 @@ social:
 highlight_name: true
 ---
 
+## Tutorial
+
+### Responsible AI
+
+In the first part of the tutorial, to set the stage, we cover irresponsible AI: (1) discrimination (e.g., facial recognition, justice); (2) phrenology (e.g., biometric based predictions); (3) limitations (e.g., human incompetence, minimal adversarial AI), (4) indiscriminate use of computing resources (e.g., large language models) and (5) the impact of generative AI (disinformation, mental health and copyright issues). These examples do have a personal bias but set the context for the second part where we address three challenges: (1) principles & governance, (2) regulation and (3) our cognitive biases. We finish discussing our responsible AI initiatives and the near future.
+
 ### Bio
 
-Ricardo Baeza-Yates is Director of Research at the Institute for Experiential AI of Northeastern University, as well as part-time professor at the Dept. of Computer Science of University of Chile. Before, he was VP of Research at Yahoo Labs, based in Barcelona, Spain, and later in Sunnyvale, California, from 2006 to 2016. He is co-author of the best-seller Modern Information Retrieval textbook published by Addison-Wesley in 1999 and 2011 (2nd ed), that won the ASIST 2012 Book of the Year award. From 2002 to 2004 he was elected to the Board of Governors of the IEEE Computer Society and between 2012 and 2016 was elected for the ACM Council. In 2009 he was named ACM Fellow and in 2011 IEEE Fellow, among other awards and distinctions. He obtained a Ph.D. in CS from the University of Waterloo, Canada, and his areas of expertise are responsible AI, web search and data mining plus data science and algorithms in general.
+Ricardo Baeza-Yates is Director of Research at the Institute for Experiential AI of Northeastern University. Before, he was VP of Research at Yahoo Labs, based in Barcelona, Spain, and later in Sunnyvale, California, from 2006 to 2016. He is co-author of the best-seller Modern Information Retrieval textbook published by Addison-Wesley in 1999 and 2011 (2nd ed), that won the ASIST 2012 Book of the Year award. From 2002 to 2004 he was elected to the Board of Governors of the IEEE Computer Society and between 2012 and 2016 was elected for the ACM Council. In 2009 he was named ACM Fellow and in 2011 IEEE Fellow, among other awards and distinctions. He obtained a Ph.D. in CS from the University of Waterloo, Canada, in 1989, and his areas of expertise are web search and data mining, information retrieval, bias on AI, data science and algorithms in general.
