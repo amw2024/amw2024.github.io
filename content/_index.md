@@ -127,18 +127,18 @@ sections:
       text: |-
 
         <div class="logos">
-          
+
           <a href="https://www.vldb.org" target="_blank" rel="noopener noreferrer" title="VLDB Endowment">
             <img src="/uploads/logos/vldb.gif">
-          </a>   
-
-          <a href="https://mx.ambafrance.org" target="_blank" rel="noopener noreferrer" title="Ambassade de France au Mexique">
-            <img src="/uploads/logos/ambassade-france.svg" width="152px" height="150px">
-          </a>    
+          </a>
 
           <a href="https://www.acm.org" target="_blank" rel="noopener noreferrer" title="Association for Computing Machinery">
-            <img src="/uploads/logos/acm.svg" width="152px" height="150px">
+            <img src="/uploads/logos/acm.svg" width="152px" height="150px" style="max-width: 75%; height: auto">
           </a>    
+
+          <a href="https://mx.ambafrance.org" target="_blank" rel="noopener noreferrer" title="Ambassade de France au Mexique">
+            <img src="/uploads/logos/ambassade-france.svg" width="152px" height="150px" style="max-width: 75%; height: auto;">
+          </a>
 
         </div>
 
