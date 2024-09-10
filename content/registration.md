@@ -61,7 +61,7 @@ sections:
           </tr>
 
           <tr>
-            <td style="text-align:left"><strong>One-day pass</strong> <br> 30% discount when registering more than 5 people</td>
+            <td style="text-align:left"><strong>One-day pass</strong><sup>3</sup> <br> 30% discount when registering more than 5 people</td>
             <td style="text-align:right"><code>$ 125 USD</code></td>
             <td style="text-align:right"><code>$ 125 USD</code></td>
           </tr>
@@ -89,12 +89,18 @@ sections:
         <sup>1</sup> The registration fee for **in-person attendance** includes: 
         * **School**: 2 lunches + 1 dinner + 1 special dinner    
         * **Workshop**: 3 lunches + 1 dinner + 1 banquet    
-        * **School and Workshop fees** include daily cultural activities with a two-way transportation facility when required. The **one-day pass** grants access to the activities, transportation and meals of one specific day only.
+        * **School and Workshop fees** include daily cultural activities with a two-way transportation facility when required. The **one-day pass** 
 
         <sup>2</sup> The registration fee for **online attendance** includes:
         * **School course**: online access to the 3-hour course and the teaching materials      
         * **Workshop**: online access to the AMW 2024 scientific program, and the keynotes and workshop sessions of a specific day
         * Certificate of participation        
+
+        
+        <sup>3</sup> The **in-person one-day pass** grants access to the activities, meals and transportation facilities of the day. <mark>Only a single one-day pass per person is allowed for the entire event.</mark> 
+        
+
+        
 
 
 
@@ -121,7 +127,6 @@ sections:
         In case of problems or questions, [contact us](/#contact). 
 
         
-
         {{% callout note %}}
         **Cancellation Policy**    
         In case of any cancellation or non-attendance, the **registration fee are not refundable**.
