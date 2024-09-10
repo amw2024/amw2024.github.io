@@ -65,17 +65,17 @@ sections:
         * **Yuval Moskovitch**, Ben Gurion University, Israel
 
 
-  - block: markdown
-    design:
-      columns: '2' 
-    content:
-      title: Organization Committee
-      subtitle: 
-      text: |-
+  # - block: markdown
+  #   design:
+  #     columns: '2' 
+  #   content:
+  #     title: Organization Committee
+  #     subtitle: 
+  #     text: |-
 
-        * **Rocío Aldeco-Pérez**, UNAM, Mexico
-        * **Sagrario Castillo Camporro**, UNAM, Mexico
-        * **Javier A. Espinosa-Oviedo**, Univ. Lyon / ERIC, France
+  #       * **Rocío Aldeco-Pérez**, UNAM, Mexico
+  #       * **Sagrario Castillo Camporro**, UNAM, Mexico
+  #       * **Javier A. Espinosa-Oviedo**, Univ. Lyon / ERIC, France
 
 # Optional header image (relative to `static/media/` folder).
 header:

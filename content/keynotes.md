@@ -25,7 +25,7 @@ sections:
     content:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: keynote
+      username: bellomarini
 
   - block: about.biography
     content:

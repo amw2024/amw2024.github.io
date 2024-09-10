@@ -17,7 +17,7 @@ sections:
       text: |-
         {{% callout warning %}}
         **Authors**    
-        We kindly ask you to register **<mark>no later than September, 9th</mark>**.
+        We kindly ask you to register **<mark>no later than September, 9th</mark>** (anywhere in the world).
         {{% /callout %}}
         
 
