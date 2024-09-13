@@ -68,7 +68,7 @@ sections:
 
           <tr>
             <td style="text-align:left" rowspan="2"><strong>Online <br> Attendance <sup>2</sup></strong></td>          
-            <td style="text-align:left"><strong>One-day pass, Workshop</strong> </td>
+            <td style="text-align:left"><strong>Workshop pass</strong> </td>
             <td style="text-align:right"><code>$  15 USD</code></td>
             <td style="text-align:right"><code>$  15 USD</code></td>
           </tr>
