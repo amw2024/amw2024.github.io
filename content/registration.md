@@ -7,80 +7,64 @@ weight : 41
 
 sections:
 
+  # - block: markdown
+  #   id: fees
+  #   design:
+  #     columns: '2' 
+  #   content:
+  #     title: Fees
+  #     subtitle: 
+  #     text: |-
 
-# |                   |  Early Bird _(<mark>until September 15th, 2024</mark>)_   |  Normal  
-# |:----------|------:|------:
-# | **School only**            |     `$ 450 USD` | `$   600 USD` 
-# | **Workshop only**          |     `$ 850 USD` | `$ 1,000 USD` 
-# | **Workshop + School**      |   `$ 1,250 USD` | `$ 1,400 USD` 
-# | **One-day pass** (School or Workshop) <br> 30% discount when registering more than 5 people  |   `$ 125 USD` | `$  125 USD` 
-# | **One-course online pass (School)**        |   `$  USD` | `$  USD` 
-# | **One-day online pass (Workshop)**      |   `$  USD` | `$  USD` 
+  #       <table class="table">
+  #         <thead>
+  #           <tr>
+  #             <th style="text-align:left"></th>
+  #             <th style="text-align:left"></th>
+  #             <th style="text-align:right">Early Bird <br> <em>(<mark>until September 15th, 2024</mark>)</em></th>
+  #             <th style="text-align:right">Normal<br> &nbsp;</th>
+  #           </tr>
+  #         </thead>
+  #       <tbody>
+  #         <tr>
+  #           <td style="text-align:left; vertical-align: middle;" rowspan="4"><strong>In-person</strong></td>          
+  #           <td style="text-align:left"><strong>Workshop + School</strong></td>
+  #           <td style="text-align:right"><code>$ 1,250 USD</code></td>
+  #           <td style="text-align:right"><code>$ 1,400 USD</code></td>
+  #         </tr>        
+  #         <tr>
+  #           <td style="text-align:left"><strong>Workshop</strong></td>
+  #           <td style="text-align:right"><code>$ 850 USD</code></td>
+  #           <td style="text-align:right"><code>$ 1,000 USD</code></td>
+  #         </tr>          
+  #         <tr>
+  #           <td style="text-align:left"><strong>School</strong></td>
+  #           <td style="text-align:right"><code>$ 450 USD</code></td>
+  #           <td style="text-align:right"><code>$ 600 USD</code></td>
+  #         </tr>
 
+  #         <tr>
+  #           <td style="text-align:left"><strong>One-day pass "Workshop"</strong><sup>3</sup></td>
+  #           <td style="text-align:right"><code>$ 125 USD</code></td>
+  #           <td style="text-align:right"><code>$ 125 USD</code></td>
+  #         </tr>
 
+  #         <tr>  
+  #           <td style="text-align:left; vertical-align: middle;" rowspan="2"><strong>Online</strong></td>    
+  #           <td style="text-align:left"><strong>Workshop</strong> </td>
+  #           <td style="text-align:right"><code>$  15 USD</code></td>
+  #           <td style="text-align:right"><code>$  15 USD</code></td>
+  #         </tr>
 
-  - block: markdown
-    id: fees
-    design:
-      columns: '2' 
-    content:
-      title: Fees
-      subtitle: 
-      text: |-
-
-        <table class="table">
-          <thead>
-            <tr>
-              <th style="text-align:left"></th>
-              <th style="text-align:left"></th>
-              <th style="text-align:right">Early Bird <br> <em>(<mark>until September 15th, 2024</mark>)</em></th>
-              <th style="text-align:right">Normal<br> &nbsp;</th>
-            </tr>
-          </thead>
-        <tbody>
-          <tr>
-            <td style="text-align:left; vertical-align: middle;" rowspan="4"><strong>In-person</strong></td>          
-            <td style="text-align:left"><strong>Workshop + School</strong></td>
-            <td style="text-align:right"><code>$ 1,250 USD</code></td>
-            <td style="text-align:right"><code>$ 1,400 USD</code></td>
-          </tr>        
-          <tr>
-            <td style="text-align:left"><strong>Workshop</strong></td>
-            <td style="text-align:right"><code>$ 850 USD</code></td>
-            <td style="text-align:right"><code>$ 1,000 USD</code></td>
-          </tr>          
-          <tr>
-            <td style="text-align:left"><strong>School</strong></td>
-            <td style="text-align:right"><code>$ 450 USD</code></td>
-            <td style="text-align:right"><code>$ 600 USD</code></td>
-          </tr>
-
-          <tr>
-            <td style="text-align:left"><strong>One-day pass "Workshop"</strong><sup>3</sup></td>
-            <td style="text-align:right"><code>$ 125 USD</code></td>
-            <td style="text-align:right"><code>$ 125 USD</code></td>
-          </tr>
-
-          <tr>  
-            <td style="text-align:left; vertical-align: middle;" rowspan="2"><strong>Online</strong></td>    
-            <td style="text-align:left"><strong>Workshop</strong> </td>
-            <td style="text-align:right"><code>$  15 USD</code></td>
-            <td style="text-align:right"><code>$  15 USD</code></td>
-          </tr>
-
-          <tr>
-            <td style="text-align:left"><strong>School course</strong> </td>
-            <td style="text-align:right"><code>$  12 USD</code></td>
-            <td style="text-align:right"><code>$  12 USD</code></td>
-          </tr>
+  #         <tr>
+  #           <td style="text-align:left"><strong>School course</strong> </td>
+  #           <td style="text-align:right"><code>$  12 USD</code></td>
+  #           <td style="text-align:right"><code>$  12 USD</code></td>
+  #         </tr>
 
 
-          </tbody>
-        </table>
-
-
-
-
+  #         </tbody>
+  #       </table>
 
 
 

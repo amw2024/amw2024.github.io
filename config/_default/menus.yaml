@@ -48,6 +48,12 @@ main:
     url: '/dei'
     weight: 26  
 
+  - name: Previous AMW
+    parent: "general-info"
+    identifier: past
+    url: 'https://en.wikipedia.org/wiki/Alberto_O._Mendelzon#Alberto_Mendelzon_International_Workshop_on_Foundation_of_Databases_and_the_Web_(AMW)'
+    weight: 27    
+
   # --------------------------------------------
   # CALL FOR SUBMISSIONS
   # --------------------------------------------
@@ -220,10 +226,7 @@ main:
     weight: 100
 
 
-  - name: Previous AMW
-    identifier: past
-    url: 'https://en.wikipedia.org/wiki/Alberto_O._Mendelzon#Alberto_Mendelzon_International_Workshop_on_Foundation_of_Databases_and_the_Web_(AMW)'
-    weight: 110
+
 
     
 
