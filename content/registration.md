@@ -77,7 +77,7 @@ sections:
         <sup>2</sup> The **one-day pass**:
         * includes coffee breaks, lunch for the selected day and a certificate of participation. 
         * does not include dinners or night social activities.
-        * is not cumulative. <mark>**Each person may purchase a maximum of one one-day pass**.</mark>
+        * is not cumulative. <mark>**Each person may purchase 1 pass maximum**.</mark>
         * must be purchased via [National Bank Transfer](/registration/#bank-transfer).
 
         <sup>3</sup> The registration fee for **online attendance** includes:
