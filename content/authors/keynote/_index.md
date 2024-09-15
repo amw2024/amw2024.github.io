@@ -9,9 +9,10 @@ title: TBA
 first_name: 
 last_name: 
 
+order: 4
+
 user_groups: 
   - Keynotes
-  - School Speakers
 
 # # Status emoji
 # status:

@@ -9,6 +9,8 @@ title: Rocío Aldeco Pérez
 first_name: Rocío
 last_name: Aldeco Pérez
 
+order: 4
+
 user_groups: ["School Speakers"]
 
 # # Status emoji

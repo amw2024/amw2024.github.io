@@ -9,6 +9,8 @@ title: Luigi Bellomarini
 first_name: Luigi
 last_name: Bellomarini
 
+order: 3
+
 user_groups: ["Keynotes"]
 
 # # Status emoji

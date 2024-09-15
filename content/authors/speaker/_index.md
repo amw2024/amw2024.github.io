@@ -10,8 +10,7 @@ first_name:
 last_name: 
 
 user_groups: 
-  - Keynotes
-  - School Speakers
+  - TBA
 
 # # Status emoji
 # status:

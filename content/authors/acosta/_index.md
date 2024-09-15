@@ -9,6 +9,8 @@ title: Maribel Acosta Deibe
 first_name: Maribel
 last_name: Acosta Deibe
 
+order: 2
+
 user_groups: ["Keynotes"]
 
 # # Status emoji
@@ -23,7 +25,6 @@ role: Professor of Data Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  
   - name: Technical University of Munich
     url: https://www.chn.tum.de
 

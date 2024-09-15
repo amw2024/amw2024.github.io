@@ -84,10 +84,9 @@ main:
   # Speakers
   # --------------------------------------------
 
-  # - name: Speakers
-  #   identifier: speakers
-  #   weight: 3
-  #   url: '/keynotes'
+  - name: Keynotes
+    weight: 3
+    url: '/keynotes-speakers'
 
   # - name: School Speakers
   #   parent: speakers
@@ -104,24 +103,24 @@ main:
   # PROGRAM
   # --------------------------------------------
 
-  # - name: Program
-  #   identifier: program
-  #   weight: 4
+  - name: Program
+    identifier: program
+    weight: 4
 
-  # - name: School Program
-  #   parent: program
-  #   url: '/program'
-  #   weight: 41
+  - name: School Program
+    parent: program
+    url: '/program'
+    weight: 41
 
-  # - name: Workshop Program
-  #   parent: program
-  #   url: '/program#workshop'
-  #   weight: 42
+  - name: Workshop Program
+    parent: program
+    url: '/program#workshop'
+    weight: 42
 
-  # - name: Accepted Papers
-  #   parent: program
-  #   url: '/accepted-papers'
-  #   weight: 80  
+  - name: Workshop Accepted Papers
+    parent: program
+    url: '/accepted-papers'
+    weight: 80  
 
 
 
@@ -129,45 +128,45 @@ main:
   # WORKSHOP PROGRAM
   # --------------------------------------------
 
-  - name: Workshop
-    identifier: workshop
-    weight: 4
+  # - name: Workshop
+  #   identifier: workshop
+  #   weight: 4
 
-  - name: Keynotes
-    parent: workshop
-    weight: 41
-    url: '/keynotes'
+  # - name: Keynotes
+  #   parent: workshop
+  #   weight: 41
+  #   url: '/keynotes'
 
-  - name: Accepted Papers
-    parent: workshop
-    url: '/accepted-papers'
-    weight: 42
+  # - name: Accepted Papers
+  #   parent: workshop
+  #   url: '/accepted-papers'
+  #   weight: 42
     
 
-  - name: Workshop Program
-    parent: workshop
-    url: '/program#workshop'
-    weight: 43
+  # - name: Workshop Program
+  #   parent: workshop
+  #   url: '/program#workshop'
+  #   weight: 43
     
 
   # --------------------------------------------
   # SCHOOL PROGRAM
   # --------------------------------------------
 
-  - name: School
-    identifier: school
-    url: '/school'
-    weight: 40
+  # - name: School
+  #   identifier: school
+  #   url: '/school'
+  #   weight: 40
 
-  - name: Speakers
-    parent: school
-    url: '/speakers'
-    weight: 141
+  # - name: Speakers
+  #   parent: school
+  #   url: '/speakers'
+  #   weight: 141
   
-  - name: School Program
-    parent: school
-    url: '/program'
-    weight: 142
+  # - name: School Program
+  #   parent: school
+  #   url: '/program'
+  #   weight: 142
 
   # - name: Tutorial Requirements
   #   parent: school
@@ -221,7 +220,7 @@ main:
   # Others
   # --------------------------------------------
 
-  - name: Grant Program
+  - name: Grants Program
     url: '/grants'
     weight: 100
 

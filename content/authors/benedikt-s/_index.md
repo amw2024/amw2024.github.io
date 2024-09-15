@@ -9,7 +9,9 @@ title: Michael Benedikt
 first_name: Michael
 last_name: Benedikt
 
-user_groups: ["Keynotes", "School Speakers"]
+order: 2
+
+user_groups: ["School Speakers"]
 
 # # Status emoji
 # status:

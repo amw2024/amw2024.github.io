@@ -9,9 +9,10 @@ title: Marcela Quiroz Castellanos
 first_name: Marcela
 last_name: Quiroz Castellanos
 
+order: 3
+
 user_groups:
   - "School Speakers"
-  - School Chairs
 
 # # Status emoji
 # status:

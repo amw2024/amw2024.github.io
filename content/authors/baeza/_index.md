@@ -9,6 +9,8 @@ title: Ricardo Baeza-Yates
 first_name: Ricardo
 last_name: Baeza-Yates
 
+order: 1
+
 user_groups: ["School Speakers"]
 
 # # Status emoji
