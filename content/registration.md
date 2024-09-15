@@ -19,6 +19,72 @@ sections:
 
 
 
+  - block: markdown
+    id: fees
+    design:
+      columns: '2' 
+    content:
+      title: Fees
+      subtitle: 
+      text: |-
+
+        <table class="table">
+          <thead>
+            <tr>
+              <th style="text-align:left"></th>
+              <th style="text-align:left"></th>
+              <th style="text-align:right">Early Bird <br> <em>(<mark>until September 15th, 2024</mark>)</em></th>
+              <th style="text-align:right">Normal<br> &nbsp;</th>
+            </tr>
+          </thead>
+        <tbody>
+          <tr>
+            <td style="text-align:left; vertical-align: middle;" rowspan="4"><strong>In-person</strong></td>          
+            <td style="text-align:left"><strong>Workshop + School</strong></td>
+            <td style="text-align:right"><code>$ 1,250 USD</code></td>
+            <td style="text-align:right"><code>$ 1,400 USD</code></td>
+          </tr>        
+          <tr>
+            <td style="text-align:left"><strong>Workshop</strong></td>
+            <td style="text-align:right"><code>$ 850 USD</code></td>
+            <td style="text-align:right"><code>$ 1,000 USD</code></td>
+          </tr>          
+          <tr>
+            <td style="text-align:left"><strong>School</strong></td>
+            <td style="text-align:right"><code>$ 450 USD</code></td>
+            <td style="text-align:right"><code>$ 600 USD</code></td>
+          </tr>
+
+          <tr>
+            <td style="text-align:left"><strong>One-day pass "Workshop"</strong><sup>3</sup></td>
+            <td style="text-align:right"><code>$ 125 USD</code></td>
+            <td style="text-align:right"><code>$ 125 USD</code></td>
+          </tr>
+
+          <tr>  
+            <td style="text-align:left; vertical-align: middle;" rowspan="2"><strong>Online</strong></td>    
+            <td style="text-align:left"><strong>Workshop</strong> </td>
+            <td style="text-align:right"><code>$  15 USD</code></td>
+            <td style="text-align:right"><code>$  15 USD</code></td>
+          </tr>
+
+          <tr>
+            <td style="text-align:left"><strong>School course</strong> </td>
+            <td style="text-align:right"><code>$  12 USD</code></td>
+            <td style="text-align:right"><code>$  12 USD</code></td>
+          </tr>
+
+
+          </tbody>
+        </table>
+
+
+
+
+
+
+
+
 
   - block: markdown
     id: fees
@@ -89,8 +155,7 @@ sections:
         <sup>1</sup> The registration fee for **in-person attendance** includes: 
         * **School**: 2 lunches + 1 dinner + 1 special dinner    
         * **Workshop**: 3 lunches + 1 dinner + 1 banquet    
-        * **School and Workshop fees** include daily cultural activities with a two-way transportation facility when required. The **one-day pass** 
-
+        * **School and Workshop fees** include daily cultural activities with a two-way transportation facility when required. 
         <sup>2</sup> The registration fee for **online attendance** includes:
         * **School course**: online access to the 3-hour course and the teaching materials      
         * **Workshop**: online access to the AMW 2024 scientific program, and the keynotes and workshop sessions of a specific day
