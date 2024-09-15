@@ -7,69 +7,6 @@ weight : 41
 
 sections:
 
-  # - block: markdown
-  #   id: fees
-  #   design:
-  #     columns: '2' 
-  #   content:
-  #     title: Fees
-  #     subtitle: 
-  #     text: |-
-
-  #       <table class="table">
-  #         <thead>
-  #           <tr>
-  #             <th style="text-align:left"></th>
-  #             <th style="text-align:left"></th>
-  #             <th style="text-align:right">Early Bird <br> <em>(<mark>until September 15th, 2024</mark>)</em></th>
-  #             <th style="text-align:right">Normal<br> &nbsp;</th>
-  #           </tr>
-  #         </thead>
-  #       <tbody>
-  #         <tr>
-  #           <td style="text-align:left; vertical-align: middle;" rowspan="4"><strong>In-person</strong></td>          
-  #           <td style="text-align:left"><strong>Workshop + School</strong></td>
-  #           <td style="text-align:right"><code>$ 1,250 USD</code></td>
-  #           <td style="text-align:right"><code>$ 1,400 USD</code></td>
-  #         </tr>        
-  #         <tr>
-  #           <td style="text-align:left"><strong>Workshop</strong></td>
-  #           <td style="text-align:right"><code>$ 850 USD</code></td>
-  #           <td style="text-align:right"><code>$ 1,000 USD</code></td>
-  #         </tr>          
-  #         <tr>
-  #           <td style="text-align:left"><strong>School</strong></td>
-  #           <td style="text-align:right"><code>$ 450 USD</code></td>
-  #           <td style="text-align:right"><code>$ 600 USD</code></td>
-  #         </tr>
-
-  #         <tr>
-  #           <td style="text-align:left"><strong>One-day pass "Workshop"</strong><sup>3</sup></td>
-  #           <td style="text-align:right"><code>$ 125 USD</code></td>
-  #           <td style="text-align:right"><code>$ 125 USD</code></td>
-  #         </tr>
-
-  #         <tr>  
-  #           <td style="text-align:left; vertical-align: middle;" rowspan="2"><strong>Online</strong></td>    
-  #           <td style="text-align:left"><strong>Workshop</strong> </td>
-  #           <td style="text-align:right"><code>$  15 USD</code></td>
-  #           <td style="text-align:right"><code>$  15 USD</code></td>
-  #         </tr>
-
-  #         <tr>
-  #           <td style="text-align:left"><strong>School course</strong> </td>
-  #           <td style="text-align:right"><code>$  12 USD</code></td>
-  #           <td style="text-align:right"><code>$  12 USD</code></td>
-  #         </tr>
-
-
-  #         </tbody>
-  #       </table>
-
-
-
-
-
   - block: markdown
     id: fees
     design:
@@ -78,53 +15,49 @@ sections:
       title: Fees
       subtitle: 
       text: |-
-        {{% callout warning %}}
-        **Authors**    
-        We kindly ask you to register **<mark>no later than September, 9th</mark>** (anywhere in the world).
-        {{% /callout %}}
 
         <table class="table">
           <thead>
             <tr>
               <th style="text-align:left"></th>
               <th style="text-align:left"></th>
-              <th style="text-align:right">Early Bird <br> <em>(<mark>until September 15th, 2024</mark>)</em></th>
-              <th style="text-align:right">Normal<br> &nbsp;</th>
+              <th style="text-align:right">Normal <br> <em>(<mark>until September 22nd, 2024</mark>)</em></th>
+              <th style="text-align:right">Late<br> &nbsp;</th>
             </tr>
           </thead>
         <tbody>
           <tr>
-            <td style="text-align:left" style="vertical-align: middle;" rowspan="4"><strong>In-person <br>Attendance <sup>1</sup></strong></td>          
-            <td style="text-align:left"><strong>Workshop + School</strong></td>
+            <td style="text-align:left; vertical-align: middle;" rowspan="4"><strong>In-person</strong></td>          
+            <td style="text-align:left"><strong>Workshop + School</strong><sup>1</sup></td>
             <td style="text-align:right"><code>$ 1,250 USD</code></td>
             <td style="text-align:right"><code>$ 1,400 USD</code></td>
           </tr>        
           <tr>
-            <td style="text-align:left"><strong>Workshop only</strong></td>
+            <td style="text-align:left"><strong>Workshop</strong><sup>1</sup></td>
             <td style="text-align:right"><code>$ 850 USD</code></td>
             <td style="text-align:right"><code>$ 1,000 USD</code></td>
           </tr>          
           <tr>
-            <td style="text-align:left"><strong>School only</strong></td>
+            <td style="text-align:left"><strong>School</strong><sup>1</sup></td>
             <td style="text-align:right"><code>$ 450 USD</code></td>
             <td style="text-align:right"><code>$ 600 USD</code></td>
           </tr>
 
           <tr>
-            <td style="text-align:left"><strong>One-day pass</strong><sup>3</sup> <br> 30% discount when registering more than 5 people</td>
+            <td style="text-align:left"><strong>One-day pass</strong><sup>2</sup></td>
             <td style="text-align:right"><code>$ 125 USD</code></td>
             <td style="text-align:right"><code>$ 125 USD</code></td>
           </tr>
 
-          <tr>
-            <td style="text-align:left" rowspan="2"><strong>Online <br> Attendance <sup>2</sup></strong></td>          
-            <td style="text-align:left"><strong>Workshop pass</strong> </td>
+          <tr>  
+            <td style="text-align:left; vertical-align: middle;" rowspan="2"><strong>Online<sup>3</sup></strong></td>    
+            <td style="text-align:left"><strong>Workshop</strong> </td>
             <td style="text-align:right"><code>$  15 USD</code></td>
             <td style="text-align:right"><code>$  15 USD</code></td>
           </tr>
 
           <tr>
-            <td style="text-align:left"><strong>One-course pass, School</strong> </td>
+            <td style="text-align:left"><strong>1x School tutorial</strong> </td>
             <td style="text-align:right"><code>$  12 USD</code></td>
             <td style="text-align:right"><code>$  12 USD</code></td>
           </tr>
@@ -133,23 +66,25 @@ sections:
           </tbody>
         </table>
 
-
         <br>
 
-        <sup>1</sup> The registration fee for **in-person attendance** includes: 
-        * **School**: 2 lunches + 1 dinner + 1 special dinner    
-        * **Workshop**: 3 lunches + 1 dinner + 1 banquet    
-        * **School and Workshop fees** include daily cultural activities with a two-way transportation facility when required. 
-        <sup>2</sup> The registration fee for **online attendance** includes:
-        * **School course**: online access to the 3-hour course and the teaching materials      
-        * **Workshop**: online access to the AMW 2024 scientific program, and the keynotes and workshop sessions of a specific day
-        * Certificate of participation        
+        <sup>1</sup> The **workshop** and **school** registration fees include: 
+        * **School**: 2 lunches + 1 dinner + 1 tacos nigth.    
+        * **Workshop**: 3 lunches + 1 dinner + 1 special dinner.    
+        * Coffee breaks + social & cultural activities, with two-way transportation provided as needed.
+        * Certificate of participation.   
+        
+        <sup>2</sup> The **one-day pass**:
+        * includes coffee breaks, lunch for the selected day and a certificate of participation. 
+        * does not include dinners or night social activities.
+        * is not cumulative. <mark>**Each person may purchase a maximum of one one-day pass**.</mark>
+        * must be purchased via [National Bank Transfer](/registration/#bank-transfer).
 
-        
-        <sup>3</sup> The **in-person one-day pass** grants access to the activities, meals and transportation facilities of the day. <mark>Only a single one-day pass per person is allowed for the entire event.</mark> 
-        
+        <sup>3</sup> The registration fee for **online attendance** includes:
+        * **School tutorial**: online access to the 3-hour course and the teaching materials.      
+        * **Workshop**: online access to: the AMW 2024 scientific program, keynotes and workshop sessions. 
+        * Certificate of participation.     
 
-        
 
 
 
