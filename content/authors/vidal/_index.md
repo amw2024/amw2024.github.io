@@ -1,18 +1,17 @@
 ---
 # Display name
-title: TBA
+title: María Esther Vidal
 
 # Name pronunciation (optional)
 # name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: María Esther
+last_name: Vidal
 
-order: 4
+order: 2
 
-user_groups: 
-  - 
+user_groups: ["Keynotes"]
 
 # # Status emoji
 # status:
@@ -22,12 +21,16 @@ user_groups:
 superuser: false
 
 # Role/position/tagline
-role: 
+role: Head of Scientific Data Management Research Group
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
-  - name: 
+
+  - name: Leibniz University of Hannover
+    url: "https://www.tib.eu/en/"
+
+  - name: Universidad Simón Bolívar
+    url: "http://www.usb.ve"
   
 
 # Short bio (displayed in user profile at end of posts)
@@ -96,10 +99,10 @@ organizations:
 # # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 # #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:raldeco@unam.mx'
+social:
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:raldeco@unam.mx'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/amw2024news
@@ -126,7 +129,10 @@ organizations:
 highlight_name: true
 ---
 
-### Keynote Talk
+### Keynote Talk 
 
 TBA
 
+### Bio 
+
+Prof. Dr. Maria-Esther Vidal is the head of the [Scientific Data Management Research Group](https://www.tib.eu/en/research-development/research-groups-and-labs/scientific-data-management) at TIB and a member of the [L3S Research Centre](https://www.l3s.de/) at the University of Hannover; she is also a full professor (on-leave) at Universidad Simón Bolívar (USB) Venezuela. Her interests include Big data and knowledge management, knowledge representation, and semantic web.  She has published more than 170 peer-reviewed papers in Semantic Web, Databases, Bioinformatics, and Artificial Intelligence. She has co-authored one monograph, and co-edited books and journal special issues. She is part of various editorial boards (e.g., JWS, JDIQ), and has been the general chair, co-chair, senior member, and reviewer of several scientific events and journals (e.g., ESWC, AAAI, AMW, WWW, KDE). She is leading data management tasks in the EU H2020 projects iASiS, BigMedylitics, and QualiChain, and has participated in BigDataEurope, BigDataOcean; she is a supervisor of MSCA-ETN projects WDAqua and NoBIAS. She has been a visiting professor in different universities (e.g., Uni Maryland, UPM Madrid, UPC, KIT Karlsruhe, Uni Nantes). In the past, she has participated in international projects (e.g., FP7, NSF, AECI), and led industrial data integration projects for more than 10 years (e.g., Bell South, Telefonica).
