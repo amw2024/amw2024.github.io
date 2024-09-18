@@ -32,7 +32,7 @@ sections:
         * [Rocío Aldeco-Pérez](mailto:raldeco@unam.mx), UNAM, Mexico 
 
         ### Website Chair
-        * [Javier A. Espinosa-Oviedo](mailto:javier.espinosa@liris.cnrs.fr), Univ. Lyon / ERIC, France
+        * [Javier A. Espinosa-Oviedo](mailto:javier.espinosa@univ-lyon1.fr), University of Lyon 1 / ERIC, France
 
 
 
