@@ -355,7 +355,11 @@ sections:
                 11:00 - 12:30&nbsp;
               </td>
               <td>
-                <strong>Visit </strong><a href="http://www.comitedeanalisis.unam.mx/mapas.html" target="_blank" rel="noopener"><strong>UNAM UNESCO world heritage area</strong></a><strong> and </strong><a href="http://www.comitedeanalisis.unam.mx/murales.html" target="_blank" rel="noopener"><strong>wall paintings</strong></a>
+                <strong> Visit 
+                  <a href="https://www.ib.unam.mx" target="_blank" rel="noopener">
+                    Pabellón Nacional de la Biodiversidad</strong>
+                  </a>
+                </strong>
               </td>
             </tr>
             <tr>
@@ -389,7 +393,7 @@ sections:
                 16:00 - 17:00&nbsp;
               </td>
               <td>
-                <strong>Keynote 3&nbsp;</strong><br>
+                <strong>Keynote 3&nbsp;: <a href="/keynotes#bellomarini">From Strings to Things and Back: Putting Logic-based Reasoning into Action in a Central Bank</a></strong>   <br>
                 Luigi Bellomarini (Banca d&rsquo;Italia, Universit&agrave; Roma Tre, Italy)
               </td>
             </tr>

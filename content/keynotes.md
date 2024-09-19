@@ -22,6 +22,7 @@ sections:
       username: acosta
 
   - block: about.biography
+    id: bellomarini
     content:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
