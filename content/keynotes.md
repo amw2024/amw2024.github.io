@@ -15,6 +15,13 @@ sections:
       username: benedikt
 
   - block: about.biography
+    id: bellomarini
+    content:
+      title: 
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: vidal
+
+  - block: about.biography
     id: acosta
     content:
       title: 
@@ -27,12 +34,6 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: bellomarini
-
-  - block: about.biography
-    content:
-      title: 
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: keynote
 
 
 ---

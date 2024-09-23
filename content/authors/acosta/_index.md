@@ -126,9 +126,14 @@ social:
 highlight_name: true
 ---
 
-### Keynote Talk 
+## Keynote Talk 
 
-TBA
+### Learning in Query Optimization over Knowledge Graphs: From Adaptive Techniques to Neuro-Symbolic Optimizers … And Back?
+
+Query optimization has traditionally relied on the optimize-then-execute paradigm, which, while effective in static settings, faces significant limitations in dynamic and complex environments such as knowledge graphs on the web. In this keynote, I will explore how early database adaptive techniques provided the first steps toward online learning query optimization over knowledge graphs, allowing systems to adjust during execution. I will present results on when adaptivity enhances performance in knowledge graphs and when it falls short.
+
+Following this, I will discuss the rise of neuro-symbolic optimizers—recent innovations that combine machine learning with symbolic processing (e.g., rules, statistics, data summaries, etc.). Therefore, neuro-symbolic optimizers promise to deliver more accurate results than traditional optimizers, especially in the presence of increasingly complex workloads and scenarios. This raises a fundamental question: Can neuro-symbolic optimizers eliminate the need for adaptive techniques, or will systems still require the flexibility to adapt during execution? I will conclude with an exploration of this open question, the challenges of embedding machine learning into query optimization, and the interplay of machine learning and adaptivity, with a special focus on knowledge graphs and their unique requirements.
+
 
 ### Bio 
 
