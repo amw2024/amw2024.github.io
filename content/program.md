@@ -63,39 +63,42 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">11:00 - 12:30</td>
-              <td style="text-align:left"><strong>Guided visit to the UNAM patrimony areas</strong> (UNESCO World heritage)</td>
-            </tr>
-            <tr>
-              <td style="text-align:right">12:30 - 14:00</td>
               <td style="text-align:left"><strong><a href="/speakers#benedikt">Analysis of Graph Neural Networks via Graph Query Languages (II)</a></strong>
                 </br> Michael Benedikt (University of Oxford, UK)
               </td>
+            </tr>            
+            <tr>
+              <td style="text-align:right">13:00 - 14:00</td>
+              <td style="text-align:left">
+                <strong>Guided tour </strong><a href="http://www.comitedeanalisis.unam.mx/mapas.html"><strong>UNAM UNESCO world heritage area</strong></a><strong> and </strong><a href="http://www.comitedeanalisis.unam.mx/murales.html"><strong>wall paintings</strong></a>
+              </td>
             </tr>
             <tr>
-              <td style="text-align:right">14:00 - 15:30</td>
+              <td style="text-align:right">14:15 - 15:00</td>
               <td style="text-align:left"><strong>Lunch</strong></td>
             </tr>
             <tr>
-              <td style="text-align:right">15:30 - 17:00</td>
+              <td style="text-align:right">15:00 - 16:30</td>
               <td style="text-align:left">
                 <a href="/speakers#quiroz"><strong>Hyper-heuristic Algorithms for Grouping Problems I</strong></a>
                 <br>Marcela Quiroz Castellanos (IIIA @ Universidad Veracruzana, Mexico)
               </td>
             </tr>
             <tr>
-              <td style="text-align:right">17:00 - 17:30</td>
+              <td style="text-align:right">16:30 - 17:00</td>
               <td style="text-align:left"><strong>Coffee Break</strong></td>
             </tr>
             <tr>
-              <td style="text-align:right">17:30 - 19:00</td>
+              <td style="text-align:right">17:00 - 18:30</td>
               <td style="text-align:left">
                 <a href="/speakers#quiroz"><strong>Hyper-heuristic Algorithms for Grouping Problems I</strong></a>
                 <br>Marcela Quiroz Castellanos (IIIA @ Universidad Veracruzana, Mexico)
               </td>
             </tr>
             <tr>
-              <td style="text-align:right">19:00 - 21:00</td>
-              <td style="text-align:left"><strong>Dinner &amp; integration activity</strong></td>
+              <td style="text-align:right">18:30 - 20:30</td>
+              <td style="text-align:left"><strong>Dinner &amp; Integration Activity</strong> <br> - Fiesta Latina
+              </td>
             </tr>
           </tbody>
         </table>
@@ -170,11 +173,11 @@ sections:
             <td style="text-align:left"><strong>Coffee Break</strong></td>
           </tr>
           <tr>
-            <td style="text-align:right">17:30 - 18:30</td>
-            <td style="text-align:left"><strong>Poster Session</strong></td>
+            <td style="text-align:right">17:30</td>
+            <td style="text-align:left"><strong>Departure to the Arena México</strong></td>
           </tr>
           <tr>
-            <td style="text-align:right">18:30 - 23:00</td>
+            <td style="text-align:right">19:30 - 23:00</td>
             <td style="text-align:left"><strong>Mexican Experience Night</strong> <br> - <a href="https://cmll.com/cartelera/" target="_blank" rel="noopener">Lucha Libre @ Arena México</a> <br> - Tacos Dinner</td>
           </tr>
           </tbody>

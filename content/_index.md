@@ -133,13 +133,23 @@ sections:
           </a>
 
           <a href="https://www.acm.org" target="_blank" rel="noopener noreferrer" title="Association for Computing Machinery">
-            <img src="/uploads/logos/acm.svg" width="152px" height="150px" style="max-width: 75%; height: auto">
+            <img src="/uploads/logos/acm.svg" width="152px" height="150px" style="max-width: 85%; height: auto">
           </a>    
+
+        </div>
+
+
+        <div class="logos">
 
           <a href="https://mx.ambafrance.org" target="_blank" rel="noopener noreferrer" title="Ambassade de France au Mexique">
             <img src="/uploads/logos/ambassade-france.svg" width="152px" height="150px" style="max-width: 75%; height: auto;">
           </a>
 
+          <a href="https://www.cpe.fr" target="_blank" rel="noopener noreferrer" title="CPE Lyon Graduate School of Engineering">
+            <img src="/uploads/logos/cpe.svg" width="152px" height="150px" style="max-width: 100%; height: auto;">
+          </a>          
+
         </div>
+
 
 ---
