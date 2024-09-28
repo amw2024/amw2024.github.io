@@ -15,7 +15,7 @@ sections:
       username: benedikt
 
   - block: about.biography
-    id: bellomarini
+    id: vidal
     content:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)

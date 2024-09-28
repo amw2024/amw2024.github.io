@@ -131,7 +131,7 @@ highlight_name: true
 
 ### Keynote Talk 
 
-TBA
+## Integrating Semantics with Symbolic AI: The Path to Interpretable Hybrid AI Systems
 
 ### Bio 
 

@@ -228,8 +228,8 @@ sections:
               </td>
               <td>
                 <strong>Opening</strong><br>
-                Genoveva Vargas-Solar, CNRS, France&nbsp; -- General Chair<br>
-                Emanuel Sallinger, TU Wien, Austria - Program Committee Chair
+                Genoveva Vargas-Solar (CNRS, France) — General Chair<br>
+                Emanuel Sallinger (TU Wien, Austria) — Program Committee Chair
               </td>
             </tr>
             <tr>
@@ -237,33 +237,38 @@ sections:
                 09:00 - 10:00
               </td>
               <td>
-                <strong>Keynote 1: </strong><a href="/keynotes/#benedikt"><strong>Verification of Graph Learning Models and Analysis of Query Languages</strong></a><br>
-                Michael Benedikt (University of Oxford, UK)
+                <strong>Keynote 1 <br> </strong><a href="/keynotes/#benedikt"><strong>Verification of Graph Learning Models and Analysis of Query Languages</strong></a><br>
+                Michael Benedikt (University of Oxford, UK) <br>
+                <code>Session Chair: Emanuel Sallinger</code>
               </td>
             </tr>
             <tr>
-              <td style="text-align:right; width:25%;">
-                10:00 - 10:30&nbsp;
-              </td>
+              <td style="text-align:right; width:25%;">10:00 - 10:30&nbsp;</td>
+              <td>  <strong>Coffee Break</strong>   </td>
+            </tr>
+            <tr>
+              <td style="text-align:right; width:25%;">10:30 - 11:30</td>
               <td>
-                <strong>Coffee Break</strong>
-              </td>
+                <strong>Keynote 2 <br>
+                <a href="/keynotes/#vidal">Integrating Semantics with Symbolic AI: The Path to Interpretable Hybrid AI Systems</strong></a><br>
+                Maria-Esther Vidal (Leibniz University of Hannover, Germany) <br>
+                <code>Session Chair: Rocío Aldeco</code>
             </tr>
             <tr>
               <td style="text-align:right; width:25%;">
-                10:30 - 13:00
+                11:30 - 13:00
               </td>
               <td>
-                <strong>Session 1: Stream processing and continuous queries</strong><br>
-                <blockquote>
-                <strong>Continuous Query Engine to Detect Anomalous ATM Transactions</strong><br>
-                <em>Fernando Mart&iacute;n-Canfr&aacute;n, Daniel Bened&iacute;, Amalia Duch and Edelmira Pasarella</em><br>
-                <br />
-                <strong>When-Provenance: Leveraging Provenance Semirings for Temporal Data Tracking</strong><br>
-                <em>Sebastien Labbe, Samuele Langhi, Angela Bonifati and Riccardo Tommasini</em><br>
-                <br />
-                <strong>A Stream Processing-Based Algorithm for Maintaining Minimum Spanning Forests of Evolving Graphs</strong><br>
-                <em>Daniel Bened&iacute;, Amalia Duch and Edelmira Pasarella</em>
+                <strong>Session 1: Temporal Data and Streams</strong><br>
+                <code>Session Chair: Rocío Aldeco</code>
+                <blockquote>                
+                  <strong>A Stream Processing-Based Algorithm for Maintaining Minimum Spanning Forests of Evolving Graphs</strong><br>
+                  <em>Daniel Bened&iacute;, Amalia Duch and Edelmira Pasarella</span></em><br>
+                  <br />
+                  <strong>When-Provenance: Leveraging Provenance Semirings for Temporal Data Tracking</strong>
+                  <p><em><span>Sebastien Labbe, Samuele Langhi, Angela Bonifati and Riccardo Tommasini</span></em></p>
+                  <strong>Semi-automatic Mapping and Extraction of RDF Triples from Wikipedia Tables</strong>
+                  <p><em><span>Adriana Concha and Aidan Hogan</span></em></p>
                 </blockquote>
             </tr>
             <tr>
@@ -292,19 +297,18 @@ sections:
                   <strong>Towards FATEful Smart Contracts</strong><br>
                   <em>Luigi Bellomarini, Marco Favorito, Eleonora Laurenza, Markus Nissl and Emanuel Sallinger</em><br>
                   <br />
-                  <strong>Consistent Query Answering over SHACL Constraints (Extended Abstract)</strong><br>
+                  <strong>Consistent Query Answering over SHACL Constraints</strong><br>
                   <em>Timo Merkl, Reinhard Pichler and Shqiponja Ahmetaj</em><br>
                   <br />
-                  <strong>Towards SHACL Validation of Evolving Graphs&nbsp;</strong><br>
-                  <em>Shqiponja Ahmetaj, Magdalena Ortiz and Mantas &Scaron;imkus&nbsp;</em>
+                  <strong>The R3 Metric: Measuring Performance of Link Prioritization During Traversal-based Query Processing</strong><br>
+                  <em>Ruben Eschauzier, Ruben Taelman and Ruben Verborgh&nbsp;</em>
               </blockquote>	
             </tr>
             <tr>
-              <td style="text-align:right; width:25%;">
-                19:30 - 21:30
-              </td>
+              <td style="text-align:right; width:25%;">18:30 - 20:30</td>
               <td>
-                <strong>Dinner and integration activity at </strong><a href="https://www.tierracocinaviva.mx/" target="_blank" rel="noopener"><strong>Tierra</strong></a><strong>&nbsp;</strong>
+                <strong>Dinner and Integration Activity at </strong><a href="https://www.tierracocinaviva.mx/" target="_blank" rel="noopener"><strong>Tierra</strong></a><strong>&nbsp;</strong><br>
+                - Taller de Danza Folklórica Mazatl (Ricardo Baeza Servín)
               </td>
             </tr>
           </tbody>
@@ -337,12 +341,11 @@ sections:
         <table class="table">
           <tbody>
             <tr>
-              <td style="text-align:right; width:25%;">
-                09:00 - 10:00&nbsp;
-              </td>
+              <td style="text-align:right; width:25%;">09:00 - 10:00&nbsp;</td>
               <td>
-                <strong>Keynote 2</strong><br>
-                Maribel Acosta Deibe (TU M&uuml;nchen, Germany)
+                <strong>Keynote 3</strong><br>
+                <a href="/keynotes/#acosta"><strong>Learning in Query Optimization over Knowledge Graphs: From Adaptive Techniques to Neuro-Symbolic Optimizers … And Back?</a></strong><br>  
+                Maribel Acosta Deibe (TU M&uuml;nchen, Germany)<br>
               </td>
             </tr>
             <tr>
@@ -358,9 +361,9 @@ sections:
                 11:00 - 12:30&nbsp;
               </td>
               <td>
-                <strong> Visit 
+                <strong> Guided visit 
                   <a href="https://www.ib.unam.mx" target="_blank" rel="noopener">
-                    Pabellón Nacional de la Biodiversidad</strong>
+                    National Biodiversity Pavilion</strong>
                   </a>
                 </strong>
               </td>
@@ -372,11 +375,11 @@ sections:
               <td>
                 <strong>Session 3: Indexing and Views</strong><br>
                 <blockquote>
-                  <strong>cKdtree: a Compact Kdtree for spatial data</strong><br>
-                  <em>Gilberto Gutierrez, Rodrigo Torres-Avil&eacute;s and Monica Caniupan</em><br>
-                  <br />
-                  <strong>Interfaces to data, beyond views</strong><br>
+                  <strong>Interfaces to Data, Beyond Views</strong><br>
                   <em>Michael Benedikt</em><br>
+                  <br />
+                  <strong>cKdtree: a Compact Kdtree for Spatial Data</strong><br>
+                  <em>Gilberto Gutierrez, Rodrigo Torres-Avil&eacute;s and Monica Caniupan</em><br>
                   <br />
                   <strong>Avoiding Materialisation for Guarded Aggregate Queries</strong><br>
                   <em>Matthias Lanzinger, Reinhard Pichler and Alexander Selzer</em>
@@ -396,7 +399,8 @@ sections:
                 16:00 - 17:00&nbsp;
               </td>
               <td>
-                <strong>Keynote 3&nbsp;: <a href="/keynotes#bellomarini">From Strings to Things and Back: Putting Logic-based Reasoning into Action in a Central Bank</a></strong>   <br>
+                <strong>Keynote 4&nbsp; <br>
+                <a href="/keynotes#bellomarini">From Strings to Things and Back: Putting Logic-based Reasoning into Action in a Central Bank</a></strong>   <br>
                 Luigi Bellomarini (Banca d&rsquo;Italia, Universit&agrave; Roma Tre, Italy)
               </td>
             </tr>
@@ -405,16 +409,14 @@ sections:
                 17:00 - 18:30&nbsp;
               </td>
               <td>
-                <strong>Session 4: Performance and Link Traversal Queries</strong><br>
+                <strong>Session 4: Knowledge Graphs and Machine Learning</strong><br>
                 <blockquote>
-                  <strong>The R3 Metric: Measuring Performance of Link Prioritization During Traversal-based Query Processing</strong><br>
-                  <em>Ruben Eschauzier, Ruben Taelman and Ruben Verborgh</em><br>
-                  <br />
-                  <strong>Opportunities for Shape-based Optimization of Link Traversal Queries</strong><br>
-                  <em>Bryan-Elliott Tam, Ruben Taelman, Pieter Colpaert and Ruben Verborgh</em><br>
-                  <br />
                   <strong>WoolNet: Finding and Visualising Paths in Knowledge Graphs</strong><br>
-                  <em>Crist&oacute;bal Torres and Aidan Hogan</em>
+                  <p><em>Crist&oacute;bal Torres and Aidan Hogan</em></p>
+                  <strong>Raising the Efficiency of Knowledge Graph Embeddings While Respecting Logical Rules</strong><br>
+                  <p><em>Aleksandar Pavlovic and Emanuel Sallinger</em></p>
+                  <strong>Towards SHACL Validation of Evolving Graphs </strong><br>
+                  <p><em>Shqiponja Ahmetaj, Magdalena Ortiz and Mantas Šimkus</em></p>
                 </blockquote>
               </td>
             </tr>
@@ -473,11 +475,12 @@ sections:
         <table class="table">
           <tbody>
             <tr>
-              <td style="text-align:right; width:25%;">
-                09:00 - 10:00&nbsp;
-              </td>
+              <td style="text-align:right; width:25%;">09:00 - 10:00&nbsp;</td>
               <td>
-                <strong>Keynote 4 : TBA</strong><br>
+                <strong>Keynote 5</strong><br>
+                <strong>Feminist Data and Algorithms: Experiences from Latin America</strong><br>
+                Paola Ricaurte (Tecnológico de Monterrey, Mexico)<br>
+                <code>Session Chair: Genoveva Vargas-Solar</code>
               </td>
             </tr>
             <tr>
@@ -493,25 +496,28 @@ sections:
                 10:30 - 12:00&nbsp;
               </td>
               <td>
-                <strong>Session 5: Knowledge Modelling and Curation</strong><br>
+                <strong>Session 5: Modeling and Applications</strong><br>
                 <blockquote>
                   <strong>Modeling the Lifecycle of Knowledge Artifacts in Qualitative Research Methodologies</strong><br>
                   <em>Alejandro Adorjan, Genoveva Vargas-Solar and Regina Motz</em><br>
                   <br />
-                  <strong>Raising the Efficiency of Knowledge Graph Embeddings While Respecting Logical Rules</strong><br>
-                  <em>Aleksandar Pavlovic and Emanuel Sallinger</em><br>
+                  <strong>Opportunities for Shape-based Optimization of Link Traversal Queries</strong><br>
+                  <em>Bryan-Elliott Tam, Ruben Taelman, Pieter Colpaert and Ruben Verborgh</em><br>
                   <br />
-                  <strong>Semi-automatic mapping and extraction of RDF triples from Wikipedia tables</strong><br>
-                  <em>Adriana Concha and Aidan Hogan</em>
+                  <strong>Continuous Query Engine to Detect Anomalous ATM Transactions</strong><br>
+                  <em>Fernando Martín-Canfrán, Daniel Benedí, Amalia Duch and Edelmira Pasarella</em>
                 </blockquote>
               </td>
             </tr>
             <tr>
-              <td style="text-align:right; width:25%;">
-                12:30&nbsp;&nbsp;
+              <td style="text-align:right; width:25%">12:00 - 12:15</td>
+              <td style="text-align:left"><strong>Closing</strong>
+            </tr>            
+            <tr>
+              <td style="text-align:right; width:25%;">12:45&nbsp;&nbsp;
               </td>
               <td>
-                <strong>Departure Lunch &amp; Visit </strong><a href="https://www.museofridakahlo.org.mx/" target="_blank" rel="noopener"><strong>Museo Frida Kahlo</strong></a><strong>&nbsp;</strong>
+                <strong>Departure Lunch in Coyoacán &amp; Visit </strong><a href="https://www.museofridakahlo.org.mx/" target="_blank" rel="noopener"><strong>Museo Frida Kahlo</strong></a><strong>&nbsp;</strong>
               </td>
             </tr>
           </tbody>
