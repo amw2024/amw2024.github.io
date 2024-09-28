@@ -29,11 +29,6 @@ sections:
         15/08 | The [venue section](/venue/) now includes information about the **rooms** where the events will take place. </br>We have also included a map with the [Points of Interest](/venue/#poi).
         08/08 | The [Camera-Ready Guidelines](/submissions/#camera-ready) are now available.
 
-          
-
-
-
-
 ---
 
 

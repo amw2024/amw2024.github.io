@@ -97,7 +97,7 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">18:30 - 20:30</td>
-              <td style="text-align:left"><strong>Dinner &amp; Integration Activity</strong> <br> - Fiesta Latina
+              <td style="text-align:left"><strong>Dinner &amp; Integration Activity</strong> <br> - Fiesta Latina (with Karla Rosales)
               </td>
             </tr>
           </tbody>
@@ -239,7 +239,7 @@ sections:
               <td>
                 <strong>Keynote 1 <br> </strong><a href="/keynotes/#benedikt"><strong>Verification of Graph Learning Models and Analysis of Query Languages</strong></a><br>
                 Michael Benedikt (University of Oxford, UK) <br>
-                <code>Session Chair: Emanuel Sallinger</code>
+                <code>Session chair: Emanuel Sallinger</code>
               </td>
             </tr>
             <tr>
@@ -252,7 +252,7 @@ sections:
                 <strong>Keynote 2 <br>
                 <a href="/keynotes/#vidal">Integrating Semantics with Symbolic AI: The Path to Interpretable Hybrid AI Systems</strong></a><br>
                 Maria-Esther Vidal (Leibniz University of Hannover, Germany) <br>
-                <code>Session Chair: Rocío Aldeco</code>
+                <code>Session chair: Rocío Aldeco</code>
             </tr>
             <tr>
               <td style="text-align:right; width:25%;">
@@ -260,7 +260,7 @@ sections:
               </td>
               <td>
                 <strong>Session 1: Temporal Data and Streams</strong><br>
-                <code>Session Chair: Rocío Aldeco</code>
+                <code>Session chair: Rocío Aldeco</code>
                 <blockquote>                
                   <strong>A Stream Processing-Based Algorithm for Maintaining Minimum Spanning Forests of Evolving Graphs</strong><br>
                   <em>Daniel Bened&iacute;, Amalia Duch and Edelmira Pasarella</span></em><br>
@@ -497,6 +497,7 @@ sections:
               </td>
               <td>
                 <strong>Session 5: Modeling and Applications</strong><br>
+                <code>Session chair: Javier A. Espinosa-Oviedo</code>
                 <blockquote>
                   <strong>Modeling the Lifecycle of Knowledge Artifacts in Qualitative Research Methodologies</strong><br>
                   <em>Alejandro Adorjan, Genoveva Vargas-Solar and Regina Motz</em><br>
