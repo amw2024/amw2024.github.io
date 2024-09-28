@@ -21,6 +21,7 @@ sections:
 
         | Date  |    |
         |---|----|
+        28/09 | AMW [full program](/program) is online.
         13/09 | [Special rates](/registration) are now available for attending AMW online or in-person.
         02/09 | [Grants](/grants) are available for students & early-career scientists interested in attending AMW. Do not miss this valuable opportunity!
         26/08 | The [registration](/registration/#procedure) is open.
