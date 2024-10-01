@@ -1,18 +1,16 @@
 ---
 # Display name
-title: Paola Ricaurte Quijano
+title: Genoveva Vargas-Solar
 
 # Name pronunciation (optional)
 # name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Paola
-last_name: Ricaurte Quijano
-
-order: 2
+first_name: Genoveva
+last_name: Vargas Solar
 
 user_groups:
-  - Keynotes
+  - General Chair
 
 # # Status emoji
 # status:
@@ -22,16 +20,16 @@ user_groups:
 superuser: false
 
 # Role/position/tagline
-role: Associate Professor
+role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
   
-  - name: Tecnologico de Monterrey
-    url: https://tec.mx/en
+  - name: CNRS, LIRIS lab, France
+    url: https://www.cnrs.fr/en
 
-  - name: Berkman Klein Center for Internet & Society, Harvard University
-    url: https://cyber.harvard.edu/
+  # - name: LIRIS research lab
+  #   url: http://liris.cnrs.fr/
   
 
 # Short bio (displayed in user profile at end of posts)
@@ -129,14 +127,3 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-## Keynote Talk 
-
-### Data/AI Assemblages of Inequality: Feminist and Decolonial Perspectives from/for Latin America
-
-Data and AI are at the center of global attention, with widespread promises and narratives about fostering economic growth and increasing productivity across all spheres of social life. These narratives are rapidly adopted by governments, organizations, and companies in our region and across the majority world. However, it is crucial to critically examine what this means for us, academics and practitioners, particularly as rising inequalities are being reproduced and amplified by data/AI assemblages globally. By data/AI assemblages, we refer to the complex and dynamic configurations of power relations, governance structures, material infrastructures, and cultural practices that shape the current data and AI ecosystem. These assemblages are never neutral; they reflect and reinforce existing and historical power imbalances—at the level of global governance, within data/AI ecosystems, and through the AI systems that increasingly shape our social and natural worlds.
-
-
-### Bio
-
-Paola Ricaurte is an associate professor at the Department of Media and Digital Culture at Tecnológico de Monterrey and a faculty associate at the Berkman Klein Center for Internet & Society at Harvard University. Together with Nick Couldry and Ulises Mejías, she co-founded Tierra Común, a network of academics, practitioners and activists interested in decoloniality and data. She participates in several expert committees, such as the Global Partnership for Artificial Intelligence (GPAI), the Global Index on Responsible AI and the Expert Group for the implementation of the UNESCO Recommendation on the Ethics of AI. She is a member of the A Plus Alliance for Inclusive Algorithms and coordinates the Latin American and Caribbean hub of the Feminist AI Research Network, from where she promotes the development of Feminist AI. In addition to her academic work, she participates in civil society initiatives to promote the development of public interest technologies.

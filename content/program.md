@@ -478,7 +478,7 @@ sections:
               <td style="text-align:right; width:25%;">09:00 - 10:00&nbsp;</td>
               <td>
                 <strong>Keynote 5</strong><br>
-                <a href="/keynotes/#ricaurte"><strong>Feminist Data and Algorithms: Experiences from Latin America</strong></a><br>
+                <a href="/keynotes/#ricaurte"><strong>Data/AI Assemblages of Inequality: Feminist and Decolonial Perspectives from/for Latin America</strong></a><br>
                 Paola Ricaurte (Tecnológico de Monterrey, Mexico)<br>
                 <code>Session Chair: Genoveva Vargas-Solar</code>
               </td>
