@@ -97,7 +97,7 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right">18:30 - 20:30</td>
-              <td style="text-align:left"><strong>Dinner &amp; Integration Activity</strong> <br> - Fiesta Latina (with Karla Rosales)
+              <td style="text-align:left"><strong>Dinner &amp; Integration Activity</strong> <br> - Fiesta Latina (with <a href="https://www.instagram.com/soylaurapalomares/" target="_blank" rel="noopener">Laura Palomares</a>)
               </td>
             </tr>
           </tbody>
