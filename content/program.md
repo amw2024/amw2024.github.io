@@ -430,7 +430,7 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right; width:25%;">
-                19:00&nbsp;
+                19:15&nbsp;
               </td>
               <td>
                 <strong>Departure for the special dinner</strong>
