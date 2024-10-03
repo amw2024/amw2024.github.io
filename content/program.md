@@ -336,8 +336,12 @@ sections:
       text: |-
 
         {{% callout note %}}
-        Room: **Auditorium "Raúl J. Marsal"** ([see maps](/venue/#rooms))   
+        Slides:    
+        * [Session 3](https://drive.google.com/drive/folders/1-8lAJomQ0eh_BAadyjWEXhHOHQLbD6hU)
+        * [Session 4](https://drive.google.com/drive/folders/1-E9IDqyDj0rk9f0An6ww4_QOIquEBfD9?usp=sharing)
         {{% /callout %}}
+
+        
 
         <table class="table">
           <tbody>
