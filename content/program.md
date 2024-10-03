@@ -410,7 +410,15 @@ sections:
             </tr>
             <tr>
               <td style="text-align:right; width:25%;">
-                17:00 - 18:30&nbsp;
+                17:00 - 17:30&nbsp;
+              </td>
+              <td>
+                <strong>Coffee Break</strong>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:right; width:25%;">
+                17:30 - 19:00&nbsp;
               </td>
               <td>
                 <strong>Session 4: Knowledge Graphs and Machine Learning</strong><br>
@@ -423,14 +431,6 @@ sections:
                   <strong>Towards SHACL Validation of Evolving Graphs </strong><br>
                   <p><em>Shqiponja Ahmetaj, Magdalena Ortiz and Mantas Šimkus</em></p>
                 </blockquote>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:right; width:25%;">
-                18:30 - 19:00&nbsp;
-              </td>
-              <td>
-                <strong>Coffee Break</strong>
               </td>
             </tr>
             <tr>
