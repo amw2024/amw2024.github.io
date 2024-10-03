@@ -293,6 +293,7 @@ sections:
               </td>
               <td>
                 <strong>Session 2: Consistency and Trust</strong><br>
+                <code>Session chair: Aidan Hogan</code>
                 <blockquote>
                   <strong>Towards FATEful Smart Contracts</strong><br>
                   <em>Luigi Bellomarini, Marco Favorito, Eleonora Laurenza, Markus Nissl and Emanuel Sallinger</em><br>
@@ -346,6 +347,7 @@ sections:
                 <strong>Keynote 3</strong><br>
                 <a href="/keynotes/#acosta"><strong>Learning in Query Optimization over Knowledge Graphs: From Adaptive Techniques to Neuro-Symbolic Optimizers … And Back?</a></strong><br>  
                 Maribel Acosta Deibe (TU M&uuml;nchen, Germany)<br>
+                <code>Session chair: Edelmira Pasarella</code>
               </td>
             </tr>
             <tr>
@@ -374,6 +376,7 @@ sections:
               </td>
               <td>
                 <strong>Session 3: Indexing and Views</strong><br>
+                <code>Session chair: Regina Motz</code>
                 <blockquote>
                   <strong>Interfaces to Data, Beyond Views</strong><br>
                   <em>Michael Benedikt</em><br>
@@ -401,7 +404,8 @@ sections:
               <td>
                 <strong>Keynote 4&nbsp; <br>
                 <a href="/keynotes#bellomarini">From Strings to Things and Back: Putting Logic-based Reasoning into Action in a Central Bank</a></strong>   <br>
-                Luigi Bellomarini (Banca d&rsquo;Italia, Universit&agrave; Roma Tre, Italy)
+                Luigi Bellomarini (Banca d&rsquo;Italia, Universit&agrave; Roma Tre, Italy)<br>
+                <code>Session chair: Emanuel Sallinger</code>
               </td>
             </tr>
             <tr>
@@ -410,6 +414,7 @@ sections:
               </td>
               <td>
                 <strong>Session 4: Knowledge Graphs and Machine Learning</strong><br>
+                <code>Session chair: Luigi Bellomarini</code>
                 <blockquote>
                   <strong>WoolNet: Finding and Visualising Paths in Knowledge Graphs</strong><br>
                   <p><em>Crist&oacute;bal Torres and Aidan Hogan</em></p>
