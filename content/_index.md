@@ -14,10 +14,8 @@ sections:
       subtitle: 
       text: |-
 
-        {{% callout note %}}
-        **Workshop Proceedings**    
-        https://ceur-ws.org/Vol-3954/
-        {{% /callout %}}
+        👉 <mark>[**Workshop Proceedings**](https://ceur-ws.org/Vol-3954/)</mark> 👈
+        { style="text-align:center;" }
 
         16th ALBERTO MENDELZON INTERNATIONAL WORKSHOP  
         ON **FOUNDATIONS OF DATA MANAGEMENT**  
@@ -29,8 +27,7 @@ sections:
         Mexico City, Mexico
         { style="text-align:center;" }
 
-        👉 [**Workshop Proceedings**](https://ceur-ws.org/Vol-3954/) 👈
-        { style="text-align:center;" }
+
 
     design:
       # See Page Builder docs for all section customization options.
