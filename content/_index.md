@@ -23,6 +23,12 @@ sections:
         Mexico City, Mexico
         { style="text-align:center;" }
 
+        {{% callout note %}}
+        **Cancellation Policy**    
+        In case of any cancellation or non-attendance, the **registration fee are not refundable**.
+        {{% /callout %}}
+
+
         👉 [**Workshop Proceedings**](https://ceur-ws.org/Vol-3954/) 👈
         { style="text-align:center;" }
 
