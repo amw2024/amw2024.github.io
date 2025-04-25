@@ -23,6 +23,9 @@ sections:
         Mexico City, Mexico
         { style="text-align:center;" }
 
+        👉 [**Workshop Proceedings**](https://ceur-ws.org/Vol-3954/) 👈
+        { style="text-align:center;" }
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
