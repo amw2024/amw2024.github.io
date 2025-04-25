@@ -155,7 +155,7 @@ sections:
         <div class="logos">
 
           <a href="https://ceur-ws.org" target="_blank" rel="noopener noreferrer" title="CEUR Workshop Proceedings">
-            <img src="/uploads/logos/ceur-ws.png" width="152px" height="150px" style="max-width: 75%; height: auto;">
+            <img src="/uploads/logos/ceur-ws.png" width="300px" height="150px" style="max-width: 75%; height: auto;">
           </a>
 
         </div>
