@@ -10,12 +10,13 @@ sections:
     content:
       title: |-
         <p style="margin-top:200px;"></p> 
-        AMW 2024   
-      subtitle: 
-      text: |-
-
+        AMW 2024
+    
         👉 <mark>[**Workshop Proceedings**](https://ceur-ws.org/Vol-3954/)</mark> 👈
         { style="text-align:center;" }
+    
+      subtitle: 
+      text: |-
 
         16th ALBERTO MENDELZON INTERNATIONAL WORKSHOP  
         ON **FOUNDATIONS OF DATA MANAGEMENT**  
